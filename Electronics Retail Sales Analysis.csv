@@ -1,0 +1,1301 @@
+Date,Product,Category,Quantity,Price,Discount_%,Total_Sales,Region,Sales_Channel,Payment_Method,Customer_Type,Customer_Rating,Delivery_Days
+"Wednesday, January 1, 2020",Office Chair,Furniture,2,375000,5,300,Bago,,,,5,2
+1/2/2020,Desk,Furniture,21,750000 MMK,0,6300,Mandalay,Agent,Mobile Pay,VIP,1,
+1/3/2020,Mouse,Accessories,14,62500 MMK,,350,Yangon,,,VIP,4,7
+1/4/2020,Mouse,Accessories,3,62500 MMK,0,75,Yangon,,Credit Card,Retail,4,-1
+1/5/2020,Laptop,Electronics,0,2000000.0 MMK,0,,Mandalay,Agent,Mobile Pay,Retail,2,5
+1/6/2020,Keyboard,Accessories,6,100000 MMK,15,240,Yangon,In-Store,Cash,Retail,,7
+1/7/2020,Mouse,Accessories,5,62500 MMK,10,125,Mandalay,,Cash,Wholesale,5,1
+"Wednesday, January 8, 2020",Headphones,Accessories,2,125000 MMK,15,100,Mandalay,,,,2,5
+"Thursday, January 9, 2020",Keyboard,Accessories,2,100000 MMK,15,80,Mandalay,,Mobile Pay,Wholesale,,2
+1/10/2020,Headphones,Accessories,15,125000 MMK,10,750,bago,Agent,Mobile Pay,Wholesale,4,5
+1/11/2020,Monitor,Electronics,13,625000 MMK,0,3250,,In-Store,,Wholesale,2,7
+1/12/2020,Keyboard,Accessories,12,100000,,480,,In-Store,Cash,,4,5
+1/13/2020,Laptop,Electronics,2,2000000 MMK,15,1600,Yangon,Agent,Mobile Pay,VIP,4,-1
+1/14/2020,Monitor,Electronics,5,625000 MMK,15,1250,,Online,,Wholesale,1,
+1/15/2020,Desk,Furniture,19,750000 MMK,,5700,Bago,,Credit Card,VIP,,7
+1/16/2020,Mouse,Accessories,7,62500 MMK,5,175,Naypyidaw,Online,Cash,VIP,3,7
+1/17/2020,Desk,Furniture,6,750000 MMK,10,1800,Bago,Agent,Mobile Pay,Retail,2,-1
+1/18/2020,Desk,Furniture,8,750000 MMK,5,2400,Mandalay,Agent,Cash,Wholesale,1,7
+1/19/2020,Desk,Furniture,13,750000 MMK,5,3900,,,Cash,Wholesale,4,
+1/20/2020,Laptop,Electronics,-1,2000000 MMK,15,,,Online,,,2,7
+1/21/2020,Mouse,Accessories,11,62500 MMK,,275,Naypyidaw,In-Store,Mobile Pay,,4,5
+1/22/2020,Monitor,Electronics,14,625000 MMK,15,3500,Yangon,In-Store,,,2,-1
+1/23/2020,Laptop,Electronics,18,2000000 MMK,15,14400,Mandalay,Agent,Cash,VIP,1,
+1/24/2020,Monitor,Electronics,7,625000 MMK,5,1750,Bago,In-Store,,VIP,1,1
+1/25/2020,Mobile Phone,Electronics,15,1250000 MMK,5,7500,Bago,,Mobile Pay,Retail,,3
+1/26/2020,Monitor,Electronics,18,625000 MMK,10,4500,Bago,Online,Cash,,2,7
+1/27/2020,Mobile Phone,Electronics,10,1250000 MMK,15,5000,Naypyidaw,Online,,Wholesale,1,3
+1/28/2020,Office Chair,Furniture,10,375000 MMK,0,1500,Yangon,Online,Credit Card,VIP,1,3
+1/29/2020,Laptop,Electronics,9,2000000 MMK,0,7200,mandalay,,Mobile Pay,Retail,1,7
+1/30/2020,Headphones,Accessories,9,125000 MMK,5,450,Naypyidaw,Online,Cash,,5,3
+1/31/2020,Monitor,Electronics,14,625000 MMK,15,3500,Mandalay,In-Store,Cash,,2,3
+2/1/2020,Laptop,Electronics,-1,2000000 MMK,15,,Bago,Online,Mobile Pay,,,5
+2/2/2020,Mobile Phone,Electronics,12,1250000 MMK,,6000,Bago,Online,Cash,Wholesale,3,3
+2/3/2020,Laptop,Electronics,9,2000000 MMK,5,7200,Yangon,Online,Mobile Pay,Wholesale,1,-1
+2/4/2020,Monitor,Electronics,10,625000 MMK,,2500,,,Cash,,2,3
+2/5/2020,Laptop,Electronics,19,2000000 MMK,10,15200,Mandalay,Agent,Mobile Pay,Wholesale,,-1
+2/6/2020,Desk,Furniture,14,750000 MMK,10,4200,,Agent,Mobile Pay,Wholesale,3,7
+2/7/2020,Desk,Furniture,22,750000 MMK,15,6600,Bago,,Cash,VIP,5,-1
+2/8/2020,Laptop,Electronics,7,2000000 MMK,,5600,Naypyidaw,In-Store,Mobile Pay,Wholesale,2,5
+2/9/2020,Office Chair,Furniture,18,375000 MMK,0,2700,Bago,In-Store,Mobile Pay,Retail,1,7
+2/10/2020,Mobile Phone,Electronics,19,1250000 MMK,10,9500,Bago,,,Retail,1,-1
+2/11/2020,Keyboard,Accessories,5,100000 MMK,15,200,Naypyidaw,,Mobile Pay,Wholesale,2,1
+2/12/2020,Mouse,Accessories,13,62500 MMK,10,325,Naypyidaw,,,Wholesale,3,1
+2/13/2020,Laptop,Electronics,11,2000000 MMK,0,8800,,In-Store,Mobile Pay,,5,1
+2/14/2020,Monitor,Electronics,15,625000 MMK,15,3750,Mandalay,In-Store,Credit Card,VIP,1,2
+2/15/2020,Keyboard,Accessories,17,100000 MMK,15,680,Naypyidaw,Online,Mobile Pay,,1,3
+2/16/2020,Desk,Furniture,18,750000 MMK,5,5400,Yangon,Agent,Cash,VIP,3,-1
+2/17/2020,Monitor,Electronics,20,625000 MMK,,5000,Bago,In-Store,Cash,Wholesale,5,-1
+2/18/2020,Desk,Furniture,7,750000 MMK,5,2100,Mandalay,Online,Cash,Retail,3,7
+2/19/2020,Desk,Furniture,3,750000 MMK,15,900,Bago,In-Store,Mobile Pay,VIP,5,5
+2/20/2020,Monitor,Electronics,10,625000 MMK,5,2500,Yangon,,Mobile Pay,Wholesale,3,1
+2/21/2020,Mobile Phone,Electronics,17,1250000 MMK,10,8500,Naypyidaw,Agent,Cash,,5,1
+2/22/2020,Office Chair,Furniture,8,375000 MMK,10,1200,Yangon,Agent,,Retail,3,1
+2/23/2020,Headphones,Accessories,2,125000 MMK,0,100,,In-Store,,Retail,5,-1
+2/24/2020,Mobile Phone,Electronics,14,1250000 MMK,5,7000,Yangon,Agent,Mobile Pay,VIP,3,1
+2/25/2020,Monitor,Electronics,18,625000 MMK,,4500,Mandalay,Agent,Cash,Retail,3,5
+2/26/2020,Office Chair,Furniture,20,375000 MMK,,3000,Mandalay,,Credit Card,VIP,,1
+2/27/2020,Mouse,Accessories,20,62500 MMK,,500,Bago,,Cash,,,
+2/28/2020,Mouse,Accessories,2,62500 MMK,10,50,Mandalay,Agent,Mobile Pay,VIP,1,
+2/29/2020,Monitor,Electronics,15,625000 MMK,0,3750,Yangon,In-Store,Cash,VIP,4,1
+3/1/2020,Office Chair,Furniture,12,375000 MMK,,1800,,Online,,Retail,1,3
+3/2/2020,Headphones,Accessories,-2,125000 MMK,,,Bago,Agent,Credit Card,Retail,2,-1
+3/3/2020,Mobile Phone,Electronics,18,1250000 MMK,5,9000,Mandalay,Agent,Mobile Pay,Wholesale,4,1
+3/4/2020,Headphones,Accessories,23,125000 MMK,,1150,Yangon,,Mobile Pay,VIP,3,-1
+3/5/2020,Keyboard,Accessories,-1,100000 MMK,0,,Yangon,Online,,Retail,3,2
+3/6/2020,Desk,Furniture,15,750000 MMK,10,4500,Naypyidaw,,Cash,Wholesale,5,2
+3/7/2020,Monitor,Electronics,5,625000 MMK,10,1250,,,,Retail,5,5
+3/8/2020,Mobile Phone,Electronics,13,1250000 MMK,5,6500,Yangon,In-Store,Cash,,3,7
+3/9/2020,Monitor,Electronics,13,625000 MMK,15,3250,Mandalay,Online,Cash,,4,-1
+3/10/2020,Keyboard,Accessories,1,100000 MMK,,40,Mandalay,In-Store,Credit Card,,2,
+3/11/2020,Desk,Furniture,8,750000 MMK,,2400,Mandalay,Agent,Credit Card,,2,1
+3/12/2020,Keyboard,Accessories,22,100000 MMK,15,880,Naypyidaw,Agent,Mobile Pay,,,2
+3/13/2020,Mouse,Accessories,15,62500 MMK,,375,Mandalay,In-Store,,Wholesale,3,5
+3/14/2020,Desk,Furniture,11,750000 MMK,0,3300,Yangon,Agent,Cash,Retail,5,-1
+3/15/2020,Mouse,Accessories,10,62500 MMK,0,250,,,Mobile Pay,Retail,4,5
+3/16/2020,Mobile Phone,Electronics,-2,1250000 MMK,0,,Bago,Agent,,VIP,5,5
+3/17/2020,Laptop,Electronics,24,2000000 MMK,5,19200,Bago,Agent,,Wholesale,3,-1
+3/18/2020,Mouse,Accessories,18,62500 MMK,10,450,Mandalay,In-Store,Credit Card,Retail,2,3
+3/19/2020,Headphones,Accessories,15,125000 MMK,5,750,Naypyidaw,Online,Mobile Pay,Wholesale,,
+3/20/2020,Laptop,Electronics,17,2000000 MMK,10,13600,Mandalay,In-Store,Credit Card,Retail,5,5
+3/21/2020,Office Chair,Furniture,2,375000 MMK,,300,,Online,Credit Card,VIP,,
+3/22/2020,Mobile Phone,Electronics,20,1250000 MMK,15,10000,,Agent,Cash,,1,5
+3/23/2020,Office Chair,Furniture,17,375000 MMK,0,2550,yangon,Agent,,Wholesale,1,7
+3/24/2020,Monitor,Electronics,5,625000 MMK,,1250,Naypyidaw,In-Store,Credit Card,Wholesale,1,1
+3/25/2020,Headphones,Accessories,1,125000 MMK,15,50,Naypyidaw,In-Store,,Retail,,
+3/26/2020,Keyboard,Accessories,10,100000 MMK,0,400,Naypyidaw,,Cash,Wholesale,2,-1
+3/27/2020,Keyboard,Accessories,3,100000 MMK,0,120,Mandalay,Agent,,,3,5
+3/28/2020,Desk,Furniture,10,750000 MMK,,3000,Yangon,Agent,,Retail,,5
+3/29/2020,Monitor,Electronics,7,625000 MMK,15,1750,Yangon,Agent,Credit Card,Wholesale,5,3
+3/30/2020,Keyboard,Accessories,3,100000 MMK,,120,Bago,,Cash,Retail,4,1
+3/31/2020,Mobile Phone,Electronics,18,1250000 MMK,10,9000,Bago,In-Store,Cash,Wholesale,4,1
+4/1/2020,Monitor,Electronics,7,625000 MMK,0,1750,mdy,In-Store,,,4,7
+4/2/2020,Mobile Phone,Electronics,7,1250000 MMK,10,3500,Mandalay,,Mobile Pay,Wholesale,2,2
+4/3/2020,Monitor,Electronics,15,625000 MMK,15,3750,Naypyidaw,Agent,Mobile Pay,Retail,2,
+4/4/2020,Laptop,Electronics,14,2000000 MMK,5,11200,,Online,Cash,VIP,5,
+4/5/2020,Mobile Phone,Electronics,5,1250000 MMK,15,2500,Yangon,Online,Credit Card,VIP,3,1
+4/6/2020,Mobile Phone,Electronics,-2,1250000 MMK,15,,Bago,Agent,,VIP,5,3
+4/7/2020,Mobile Phone,Electronics,-2,1250000 MMK,5,,,In-Store,Credit Card,Retail,4,7
+4/8/2020,Monitor,Electronics,13,625000 MMK,10,3250,Naypyidaw,Online,,VIP,,7
+4/9/2020,Keyboard,Accessories,23,100000 MMK,0,920,Yangon,Online,,Retail,,3
+4/10/2020,Office Chair,Furniture,12,375000 MMK,15,1800,Bago,In-Store,Cash,VIP,2,1
+4/11/2020,Mobile Phone,Electronics,12,1250000 MMK,10,6000,Naypyidaw,,Mobile Pay,Wholesale,1,7
+4/12/2020,Headphones,Accessories,10,125000 MMK,,500,Yangon,In-Store,Cash,,,2
+4/13/2020,Monitor,Electronics,-2,625000 MMK,10,,Bago,,,Wholesale,,
+4/14/2020,Laptop,Electronics,24,2000000 MMK,,19200,Yangon,Agent,Credit Card,,5,3
+4/15/2020,Laptop,Electronics,-1,2000000 MMK,,,Naypyidaw,,Mobile Pay,Retail,1,3
+4/16/2020,Office Chair,Furniture,5,375000 MMK,5,750,Mandalay,Agent,Credit Card,Retail,1,2
+4/17/2020,Office Chair,Furniture,5,375000 MMK,10,750,Mandalay,,Credit Card,Wholesale,3,1
+4/18/2020,Desk,Furniture,15,750000 MMK,0,4500,Yangon,,Cash,,4,5
+4/19/2020,Monitor,Electronics,14,625000 MMK,,3500,Yangon,,Cash,VIP,3,
+4/20/2020,Monitor,Electronics,14,625000 MMK,5,3500,,Online,Credit Card,VIP,5,2
+4/21/2020,Office Chair,Furniture,20,375000 MMK,10,3000,Yangon,In-Store,,Wholesale,3,5
+4/22/2020,Laptop,Electronics,-2,2000000 MMK,5,,Mandalay,In-Store,Cash,Retail,2,2
+4/23/2020,Mouse,Accessories,14,62500 MMK,10,350,Naypyidaw,In-Store,,VIP,4,-1
+4/24/2020,Headphones,Accessories,0,125000 MMK,0,,Yangon,Agent,,,1,-1
+4/25/2020,Office Chair,Furniture,9,375000 MMK,5,1350,Naypyidaw,,,VIP,3,3
+4/26/2020,Mobile Phone,Electronics,4,1250000 MMK,10,2000,Mandalay,Agent,Credit Card,VIP,,
+4/27/2020,Monitor,Electronics,11,625000 MMK,0,2750,Magway,Online,Cash,Retail,2,2
+4/28/2020,Monitor,Electronics,22,625000 MMK,5,5500,Bago,,Mobile Pay,Wholesale,3,3
+4/29/2020,Laptop,Electronics,10,2000000 MMK,5,8000,Yangon,Agent,,Retail,2,1
+4/30/2020,Office Chair,Furniture,2,375000 MMK,,300,Yangon,In-Store,,VIP,5,7
+5/1/2020,Keyboard,Accessories,1,100000 MMK,,40,Mandalay,In-Store,Credit Card,Retail,,3
+5/2/2020,Laptop,Electronics,3,2000000 MMK,0,2400,Bago,Online,Mobile Pay,Wholesale,2,5
+5/3/2020,Laptop,Electronics,19,2000000 MMK,,15200,Naypyidaw,In-Store,,,4,2
+5/4/2020,Desk,Furniture,20,750000 MMK,5,6000,Bago,Agent,Cash,Wholesale,1,7
+5/5/2020,Keyboard,Accessories,17,100000 MMK,0,680,Naypyidaw,Online,,Retail,1,3
+5/6/2020,Keyboard,Accessories,23,100000 MMK,,920,Naypyidaw,In-Store,Credit Card,,2,7
+5/7/2020,Mobile Phone,Electronics,20,1250000 MMK,15,10000,Yangon,,Credit Card,VIP,3,
+5/8/2020,Mobile Phone,Electronics,20,1250000 mmk,,10000,,In-Store,,Retail,5,1
+5/9/2020,Headphones,Accessories,19,125000 MMK,10,950,,Agent,Credit Card,Retail,,2
+5/10/2020,Office Chair,Furniture,18,375000 MMK,,2700,,Agent,Mobile Pay,VIP,1,
+5/11/2020,Desk,Furniture,11,750000 MMK,0,3300,Yangon,Agent,Cash,VIP,1,7
+5/12/2020,Office Chair,Furniture,12,375000 MMK,0,1800,Naypyidaw,,,,5,1
+5/13/2020,Headphones,Accessories,0,125000 MMK,10,,Yangon,In-Store,Cash,VIP,4,-1
+5/14/2020,Desk,Furniture,6,750000 MMK,0,1800,Bago,,Cash,,,7
+5/15/2020,Headphones,Accessories,14,125000 MMK,,700,Bago,In-Store,Credit Card,VIP,3,1
+5/16/2020,Keyboard,Accessories,23,100000 MMK,15,920,,Agent,,,3,2
+5/17/2020,Desk,Furniture,4,750000 MMK,10,1200,Mandalay,,Mobile Pay,,4,5
+5/18/2020,Desk,Furniture,16,750000 MMK,0,4800,,Online,Mobile Pay,Retail,4,2
+5/19/2020,Keyboard,Accessories,14,100000 MMK,5,560,Yangon,Online,Mobile Pay,,,5
+5/20/2020,Monitor,Electronics,14,625000 MMK,0,3500,Bago,In-Store,Mobile Pay,Retail,3,5
+5/21/2020,Mobile Phone,Electronics,19,1250000 MMK,5,9500,,,,Wholesale,2,2
+5/22/2020,Desk,Furniture,11,750000 MMK,5,3300,Yangon,Online,Mobile Pay,Retail,5,1
+5/23/2020,Laptop,Electronics,-2,2000000 MMK,5,,Bago,In-Store,Credit Card,,2,1
+5/24/2020,Headphones,Accessories,11,125000 MMK,0,550,Yangon,,,Retail,,2
+5/25/2020,Mouse,Accessories,23,62500 MMK,0,575,Yangon,,Credit Card,Wholesale,4,2
+5/26/2020,Mouse,Accessories,-1,62500 MMK,5,,,In-Store,Mobile Pay,,4,5
+5/27/2020,Monitor,Electronics,20,625000 MMK,5,5000,Bago,Agent,Credit Card,Retail,,5
+5/28/2020,Laptop,Electronics,4,2000000 MMK,5,3200,,Online,Cash,Wholesale,2,
+5/29/2020,Mobile Phone,Electronics,0,1250000 MMK,5,,Bago,,Cash,,3,7
+5/30/2020,Headphones,Accessories,18,125000 MMK,15,900,Yangon,In-Store,Mobile Pay,Wholesale,,2
+5/31/2020,Mobile Phone,Electronics,23,1250000 MMK,5,11500,Naypyidaw,In-Store,Mobile Pay,Retail,5,1
+6/1/2020,Laptop,Electronics,4,2000000 MMK,,3200,Yangon,Online,Cash,Wholesale,,2
+6/2/2020,Office Chair,Furniture,2,375000 MMK,,300,Mandalay,In-Store,Cash,,2,
+6/3/2020,Headphones,Accessories,22,125000 MMK,0,1100,Yangon,Online,Cash,Retail,4,7
+6/4/2020,Mouse,Accessories,4,62500 MMK,,100,,In-Store,Mobile Pay,,1,
+6/5/2020,Laptop,Electronics,24,2000000 MMK,10,19200,Bago,,,Wholesale,2,2
+6/6/2020,Mobile Phone,Electronics,24,1250000 MMK,15,12000,,Agent,,,1,
+6/7/2020,Keyboard,Accessories,6,100000 MMK,,240,Yangon,In-Store,,Retail,,1
+6/8/2020,Laptop,Electronics,11,2000000 MMK,15,8800,Naypyidaw,Agent,Credit Card,Retail,2,3
+6/9/2020,Mobile Phone,Electronics,2,1250000 MMK,10,1000,Yangon,In-Store,Mobile Pay,Wholesale,1,3
+6/10/2020,Laptop,Electronics,22,2000000 MMK,5,17600,,Agent,Mobile Pay,Wholesale,4,
+6/11/2020,Monitor,Electronics,7,625000 MMK,15,1750,Yangon,,Credit Card,,3,-1
+6/12/2020,Laptop,Electronics,1,2000000 MMK,5,800,Bago,In-Store,Mobile Pay,Retail,,-1
+6/13/2020,Office Chair,Furniture,-2,375000 MMK,15,,,Agent,Cash,VIP,1,3
+6/14/2020,Headphones,Accessories,13,125000 MMK,0,650,,Online,Cash,VIP,2,
+6/15/2020,Monitor,Electronics,22,625000 MMK,5,5500,Yangon,Online,Cash,,1,7
+6/16/2020,Desk,Furniture,-2,750000 MMK,10,,Bago,In-Store,Mobile Pay,Retail,4,3
+6/17/2020,Laptop,Electronics,21,2000000 MMK,5,16800,yangon,In-Store,Mobile Pay,Retail,3,5
+6/18/2020,Mobile Phone,Electronics,21,1250000 MMK,10,10500,Yangon,In-Store,Credit Card,VIP,5,-1
+6/19/2020,Mobile Phone,Electronics,21,1250000 MMK,15,10500,Yangon,Agent,Mobile Pay,Wholesale,,
+6/20/2020,Keyboard,Accessories,13,100000 MMK,5,520,,,Cash,Retail,,
+6/21/2020,Office Chair,Furniture,13,375000 MMK,0,1950,Tanintharyi,,,VIP,,5
+6/22/2020,Desk,Furniture,9,750000 MMK,0,2700,Yangon,In-Store,Mobile Pay,Wholesale,,5
+6/23/2020,Monitor,Electronics,8,625000 MMK,,2000,mandalay,Agent,Cash,VIP,2,1
+6/24/2020,Monitor,Electronics,20,625000 MMK,0,5000,Yangon,Agent,Cash,Retail,4,3
+6/25/2020,Monitor,Electronics,18,625000 MMK,5,4500,Bago,Agent,Cash,Wholesale,2,
+6/26/2020,Desk,Furniture,2,750000 MMK,15,600,ygn,Online,,Retail,2,2
+6/27/2020,Office Chair,Furniture,24,375000 MMK,5,3600,Naypyidaw,In-Store,Mobile Pay,VIP,5,5
+6/28/2020,Mouse,Accessories,3,62500 MMK,,75,Mandalay,,Cash,,1,-1
+6/29/2020,Mobile Phone,Electronics,-1,1250000 MMK,10,,Bago,In-Store,Mobile Pay,Retail,2,3
+6/30/2020,Keyboard,Accessories,-2,100000 MMK,0,,Bago,In-Store,Cash,Wholesale,1,1
+7/1/2020,Monitor,Electronics,8,625000 MMK,10,2000,,,Cash,,5,-1
+7/2/2020,Monitor,Electronics,-2,625000 MMK,15,,Mandalay,Online,Credit Card,VIP,,2
+"Friday, July 3, 2020",Headphones,Accessories,7,125000 MMK,,350,Yangon,Online,,,2,3
+7/4/2020,Office Chair,Furniture,21,375000 MMK,15,3150,Mandalay,,,,4,
+7/5/2020,Headphones,Accessories,22,125000 MMK,10,1100,Bago,Agent,,VIP,1,7
+7/6/2020,Keyboard,Accessories,18,100000 MMK,0,720,Naypyidaw,Agent,Cash,Wholesale,,3
+7/7/2020,Keyboard,Accessories,12,100000 MMK,0,480,Bago,Online,Credit Card,Wholesale,,-1
+7/8/2020,Keyboard,Accessories,0,100000 MMK,5,,Yangon,Agent,Credit Card,VIP,2,5
+7/9/2020,Headphones,Accessories,2,125000 MMK,15,100,Naypyidaw,Online,Mobile Pay,Wholesale,5,5
+7/10/2020,Headphones,Accessories,14,125000 MMK,5,700,Naypyidaw,,Credit Card,Retail,4,2
+7/11/2020,Mouse,Accessories,0,62500 MMK,10,,Bago,Agent,,VIP,2,3
+7/12/2020,Office Chair,Furniture,24,375000 MMK,0,3600,,In-Store,Mobile Pay,VIP,5,2
+7/13/2020,Desk,Furniture,15,750000 MMK,0,4500,Bago,In-Store,Cash,,1,1
+7/14/2020,Mobile Phone,Electronics,18,1250000 MMK,,9000,Mandalay,Agent,Mobile Pay,VIP,,-1
+7/15/2020,Mouse,Accessories,19,62500 MMK,0,475,bago,,Credit Card,Wholesale,,1
+7/16/2020,Mobile Phone,Electronics,16,1250000 MMK,15,8000,Mandalay,Agent,Cash,Retail,,3
+7/17/2020,Mouse,Accessories,-2,62500 MMK,10,,Naypyidaw,Online,Credit Card,,2,
+7/18/2020,Laptop,Electronics,-2,2000000 MMK,5,,Mandalay,Online,Credit Card,VIP,5,
+7/19/2020,Keyboard,Accessories,19,100000 MMK,10,760,Mandalay,,Cash,Wholesale,1,5
+7/20/2020,Headphones,Accessories,9,125000 MMK,15,450,Bago,,Cash,Wholesale,3,5
+7/21/2020,Desk,Furniture,23,750000 MMK,,6900,,Online,Mobile Pay,Retail,1,5
+7/22/2020,Mouse,Accessories,14,62500 MMK,10,350,npd,Online,Mobile Pay,VIP,1,5
+7/23/2020,Office Chair,Furniture,19,375000 MMK,10,2850,Mandalay,Online,Mobile Pay,Wholesale,2,7
+7/24/2020,Headphones,Accessories,23,125000 MMK,5,1150,Bago,,Cash,VIP,3,3
+7/25/2020,Headphones,Accessories,1,125000 MMK,,50,Naypyidaw,Online,,Wholesale,1,-1
+7/26/2020,Laptop,Electronics,23,2000000 MMK,10,18400,Mandalay,Online,Cash,Wholesale,3,2
+7/27/2020,Monitor,Electronics,16,625000 MMK,10,4000,Bago,Online,Mobile Pay,VIP,3,7
+7/28/2020,Laptop,Electronics,9,2000000 M.M.K,0,7200,Yangon,Agent,Cash,Retail,1,
+7/29/2020,Desk,Furniture,23,750000 MMK,0,6900,Bago,In-Store,,VIP,3,7
+7/30/2020,Mouse,Accessories,13,62500 MMK,15,325,Mandalay,,Mobile Pay,Wholesale,4,2
+7/31/2020,Desk,Furniture,4,750000 MMK,,1200,,Online,Credit Card,VIP,1,
+8/1/2020,Headphones,Accessories,20,125000 m.m.k,10,1000,Naypyidaw,,Credit Card,Retail,,2
+8/2/2020,Headphones,Accessories,18,125000 MMK,10,900,Yangon,Agent,Credit Card,Wholesale,2,1
+8/3/2020,Office Chair,Furniture,7,375000 MMK,15,1050,Mandalay,Agent,Credit Card,VIP,,2
+8/4/2020,Laptop,Electronics,6,2000000 MMK,15,4800,Mandalay,Agent,Mobile Pay,VIP,2,3
+8/5/2020,Laptop,Electronics,3,2000000 MMK,10,2400,Naypyidaw,,,Retail,1,1
+8/6/2020,Headphones,Accessories,13,125000 MMK,10,650,Tanintharyi,Online,Credit Card,Wholesale,3,-1
+8/7/2020,Mouse,Accessories,11,62500 MMK,10,275,Bago,In-Store,,Wholesale,3,-1
+8/8/2020,Mobile Phone,Electronics,15,1250000 MMK,15,7500,,Online,Credit Card,Retail,2,
+8/9/2020,Mobile Phone,Electronics,0,1250000 MMK,5,,Yangon,In-Store,,Wholesale,5,7
+8/10/2020,Keyboard,Accessories,1,100000 MMK,,40,Yangon,In-Store,,VIP,4,2
+8/11/2020,Desk,Furniture,12,750000 MMK,5,3600,NPD,Online,Cash,VIP,3,3
+8/12/2020,Laptop,Electronics,9,2000000 MMK,,7200,,,,,2,3
+8/13/2020,Desk,Furniture,1,750000 MMK,,300,Yangon,,Credit Card,,5,
+8/14/2020,Desk,Furniture,5,750000 MMK,15,1500,Bago,Agent,Credit Card,Wholesale,5,1
+8/15/2020,Monitor,Electronics,4,625000 MMK,0,1000,,Agent,Mobile Pay,,,2
+8/16/2020,Headphones,Accessories,11,125000 MMK,15,550,,,Cash,VIP,3,-1
+8/17/2020,Mouse,Accessories,21,62500 MMK,5,525,Naypyidaw,Agent,Credit Card,VIP,1,1
+8/18/2020,Desk,Furniture,24,750000 MMK,0,7200,,,Credit Card,Retail,1,
+8/19/2020,Mobile Phone,Electronics,3,1250000 MMK,0,1500,Yangon,In-Store,Mobile Pay,Retail,,3
+8/20/2020,Desk,Furniture,23,750000 MMK,10,6900,Bago,,Mobile Pay,Retail,1,-1
+8/21/2020,Mouse,Accessories,5,62500 MMK,10,125,Yangon,In-Store,Mobile Pay,Retail,,2
+8/22/2020,Mobile Phone,Electronics,2,1250000 MMK,15,1000,Mandalay,In-Store,Cash,VIP,1,5
+8/23/2020,Mobile Phone,Electronics,22,1250000 MMK,,11000,,,Credit Card,VIP,1,-1
+8/24/2020,Office Chair,Furniture,19,375000 MMK,10,2850,Naypyidaw,In-Store,Credit Card,,5,
+8/25/2020,Desk,Furniture,11,750000 MMK,10,3300,Bago,In-Store,,,,7
+8/26/2020,Monitor,Electronics,20,625000 MMK,10,5000,Naypyidaw,Online,,,,
+8/27/2020,Keyboard,Accessories,5,100000 MMK,15,200,Naypyidaw,Online,Cash,,3,5
+8/28/2020,Desk,Furniture,13,750000 MMK,0,3900,Yangon,,Credit Card,Retail,4,2
+8/29/2020,Office Chair,Furniture,22,375000 MMK,0,3300,Naypyidaw,In-Store,Cash,Wholesale,2,
+8/30/2020,Mobile Phone,Electronics,15,1250000 MMK,,7500,Yangon,In-Store,Mobile Pay,Retail,3,
+8/31/2020,Desk,Furniture,3,750000 MMK,15,900,Naypyidaw,In-Store,,Wholesale,1,2
+9/1/2020,Headphones,Accessories,23,125000 MMK,,1150,Bago,In-Store,Mobile Pay,VIP,,1
+9/2/2020,Keyboard,Accessories,21,100000 MMK,0,840,Yangon,Online,Credit Card,Wholesale,5,
+9/3/2020,Office Chair,Furniture,22,375000 MMK,5,3300,,,Mobile Pay,Wholesale,1,-1
+9/4/2020,Laptop,Electronics,-1,2000000 MMK,,,Naypyidaw,Agent,Mobile Pay,Wholesale,4,3
+9/5/2020,Keyboard,Accessories,10,100000 MMK,5,400,Mandalay,,,Wholesale,5,1
+9/6/2020,Laptop,Electronics,3,2000000 MMK,10,2400,Bago,,Mobile Pay,VIP,1,5
+9/7/2020,Mouse,Accessories,1,62500 MMK,0,25,Yangon,Agent,Credit Card,,3,3
+9/8/2020,Mouse,Accessories,15,62500 MMK,15,375,Bago,In-Store,,Wholesale,4,2
+9/9/2020,Monitor,Electronics,7,625000 MMK,10,1750,Mandalay,Online,Mobile Pay,VIP,,1
+9/10/2020,Monitor,Electronics,-1,625000 MMK,0,,,Online,Cash,Wholesale,4,-1
+9/11/2020,Desk,Furniture,13,750000 MMK,5,3900,Naypyidaw,Online,Credit Card,Wholesale,3,3
+9/12/2020,Desk,Furniture,21,750000 MMK,5,6300,Mandalay,Agent,Cash,Wholesale,1,3
+9/13/2020,Keyboard,Accessories,9,100000 MMK,,360,Mandalay,In-Store,,Wholesale,5,3
+9/14/2020,Mouse,Accessories,19,62500 MMK,5,475,Yangon,,Cash,Wholesale,,2
+9/15/2020,Laptop,Electronics,9,2000000 MMK,10,7200,Naypyidaw,Agent,Cash,Retail,3,2
+9/16/2020,Monitor,Electronics,2,625000 MMK,,500,Mandalay,In-Store,Cash,,,2
+9/17/2020,Laptop,Electronics,7,2000000 MMK,,5600,,,Cash,VIP,,1
+9/18/2020,Laptop,Electronics,20,2000000 MMK,,16000,Mandalay,Agent,Mobile Pay,,5,1
+9/19/2020,Mouse,Accessories,11,62500 MMK,10,275,,In-Store,Mobile Pay,,3,5
+9/20/2020,Laptop,Electronics,11,2000000 MMK,,8800,Naypyidaw,In-Store,,,5,2
+9/21/2020,Keyboard,Accessories,-2,100000 MMK,10,,Mandalay,In-Store,,VIP,4,1
+9/22/2020,Monitor,Electronics,17,625000 MMK,10,4250,Naypyidaw,,Credit Card,VIP,5,7
+9/23/2020,Mobile Phone,Electronics,15,1250000 MMK,0,7500,Bago,,Cash,,5,2
+9/24/2020,Keyboard,Accessories,10,100000 MMK,15,400,bago,,Mobile Pay,Retail,4,1
+9/25/2020,Desk,Furniture,2,750000 MMK,15,600,Naypyidaw,,Mobile Pay,Retail,1,5
+9/26/2020,Keyboard,Accessories,22,100000 MMK,15,880,,Agent,Credit Card,VIP,2,-1
+9/27/2020,Keyboard,Accessories,11,100000 MMK,10,440,,,Cash,VIP,2,-1
+9/28/2020,Laptop,Electronics,10,2000000 MMK,0,8000,Yangon,,Credit Card,VIP,3,3
+9/29/2020,Keyboard,Accessories,2,100000 MMK,,80,,Online,,Retail,4,7
+9/30/2020,Mobile Phone,Electronics,10,1250000 MMK,,5000,Bago,In-Store,,VIP,4,5
+10/1/2020,Laptop,Electronics,24,2000000 MMK,15,19200,Mandalay,Online,Mobile Pay,VIP,2,3
+10/2/2020,Laptop,Electronics,-1,2000000 MMK,5,,,In-Store,Credit Card,Wholesale,5,3
+10/3/2020,Mouse,Accessories,-2,62500 MMK,,,,Online,Credit Card,,2,3
+10/4/2020,Keyboard,Accessories,19,100000 MMK,0,760,Mandalay,Online,Credit Card,,1,-1
+10/5/2020,Desk,Furniture,17,750000 MMK,5,5100,Naypyidaw,Online,Cash,,1,7
+10/6/2020,Mobile Phone,Electronics,17,1250000 ks,5,8500,Yangon,,Credit Card,,4,2
+10/7/2020,Mouse,Accessories,21,62500 MMK,15,525,Naypyidaw,,Mobile Pay,Wholesale,1,-1
+10/8/2020,Desk,Furniture,22,750000 MMK,0,6600,Mandalay,In-Store,Cash,Wholesale,4,
+10/9/2020,Monitor,Electronics,20,625000 MMK,15,5000,Mandalay,Agent,Credit Card,VIP,3,7
+10/10/2020,Headphones,Accessories,19,125000 MMK,,950,Yangon,In-Store,,VIP,4,2
+10/11/2020,Headphones,Accessories,17,125000 MMK,5,850,Yangon,,Credit Card,VIP,5,3
+10/12/2020,Laptop,Electronics,8,2000000 MMK,,6400,Mandalay,Online,Cash,VIP,1,5
+10/13/2020,Keyboard,Accessories,21,100000 MMK,5,840,,Online,Credit Card,Wholesale,1,1
+10/14/2020,Office Chair,Furniture,2,375000 MMK,5,300,Bago,,Mobile Pay,Wholesale,2,5
+10/15/2020,Keyboard,Accessories,6,100000 MMK,0,240,,In-Store,Mobile Pay,Retail,2,
+10/16/2020,Office Chair,Furniture,16,375000 MMK,0,2400,Mandalay,In-Store,,VIP,1,3
+10/17/2020,Laptop,Electronics,5,2000000 MMK,15,4000,Naypyidaw,Agent,,Retail,3,1
+10/18/2020,Keyboard,Accessories,5,100000 MMK,0,200,Bago,,Mobile Pay,Retail,,
+10/19/2020,Desk,Furniture,9,750000 MMK,5,2700,Yangon,,Credit Card,Retail,,
+10/20/2020,Desk,Furniture,17,750000 MMK,5,5100,Naypyidaw,Agent,Cash,,3,-1
+10/21/2020,Mouse,Accessories,-1,62500 MMK,,,Naypyidaw,Agent,Mobile Pay,,3,
+10/22/2020,Laptop,Electronics,5,2000000 MMK,5,4000,,Online,Mobile Pay,Wholesale,5,5
+10/23/2020,Laptop,Electronics,4,2000000 MMK,0,3200,Naypyidaw,Agent,Credit Card,Retail,5,7
+10/24/2020,Office Chair,Furniture,2,375000 MMK,5,300,Bago,Agent,,Retail,1,7
+10/25/2020,Mouse,Accessories,20,62500 MMK,15,500,Bago,Agent,,Retail,,
+10/26/2020,Headphones,Accessories,-2,125000 MMK,5,,Naypyidaw,In-Store,,Wholesale,2,3
+10/27/2020,Mobile Phone,Electronics,10,1250000 MMK,5,5000,,In-Store,Mobile Pay,Wholesale,,-1
+10/28/2020,Laptop,Electronics,22,2000000 MMK,0,17600,Bago,In-Store,Credit Card,VIP,2,
+10/29/2020,Desk,Furniture,23,750000 MMK,5,6900,Yangon,Online,Mobile Pay,Wholesale,2,1
+10/30/2020,Mouse,Accessories,-1,62500 MMK,0,,Mandalay,Online,Credit Card,Retail,3,5
+10/31/2020,Keyboard,Accessories,7,100000 MMK,,280,Yangon,,Cash,Retail,3,2
+11/1/2020,Mobile Phone,Electronics,11,1250000 MMK,0,5500,,,Credit Card,,1,1
+11/2/2020,Desk,Furniture,14,750000 MMK,15,4200,Yangon,In-Store,Mobile Pay,VIP,4,7
+11/3/2020,Keyboard,Accessories,-1,100000 MMK,5,,,Online,,Wholesale,1,5
+11/4/2020,Keyboard,Accessories,16,100000 MMK,0,640,Mandalay,Online,Credit Card,Retail,3,
+11/5/2020,Mouse,Accessories,16,62500 MMK,,400,,,Credit Card,VIP,,
+11/6/2020,Mouse,Accessories,19,62500 KS,0,475,Bago,Online,Mobile Pay,VIP,3,1
+11/7/2020,Mouse,Accessories,15,62500 MMK,5,375,Naypyidaw,,Mobile Pay,,1,2
+11/8/2020,Headphones,Accessories,14,125000 MMK,15,700,Naypyidaw,In-Store,Credit Card,,5,7
+11/9/2020,Mobile Phone,Electronics,19,1250000 MMK,,9500,Yangon,Online,Mobile Pay,VIP,5,2
+11/10/2020,Laptop,Electronics,24,2000000 MMK,,19200,Yangon,,Credit Card,,4,-1
+11/11/2020,Keyboard,Accessories,23,100000 MMK,5,920,Bago,Agent,,VIP,3,
+11/12/2020,Headphones,Accessories,5,125000 MMK,0,250,Yangon,Online,Mobile Pay,VIP,,5
+11/13/2020,Keyboard,Accessories,8,100000 MMK,,320,Yangon,Online,Mobile Pay,VIP,1,7
+11/14/2020,Desk,Furniture,19,750000 MMK,5,5700,,,,VIP,5,
+11/15/2020,Laptop,Electronics,11,2000000 MMK,0,8800,Mandalay,In-Store,,Wholesale,3,3
+11/16/2020,Monitor,Electronics,6,625000 MMK,10,1500,Mandalay,In-Store,,,1,-1
+11/17/2020,Laptop,Electronics,2,2000000 MMK,10,1600,,In-Store,,Retail,2,2
+11/18/2020,Keyboard,Accessories,6,100000 MMK,5,240,Bago,Agent,,VIP,5,3
+11/19/2020,Mouse,Accessories,19,62500 MMK,5,475,Bago,Agent,Mobile Pay,VIP,,3
+11/20/2020,Desk,Furniture,-1,750000 MMK,15,,,Agent,,Retail,,-1
+11/21/2020,Monitor,Electronics,21,625000 MMK,5,5250,Mandalay,In-Store,,Retail,4,3
+11/22/2020,Desk,Furniture,8,750000 MMK,0,2400,Yangon,In-Store,,Retail,4,3
+11/23/2020,Office Chair,Furniture,8,375000 MMK,10,1200,,In-Store,Mobile Pay,VIP,1,
+11/24/2020,Mobile Phone,Electronics,-2,1250000 MMK,,,,Online,Credit Card,,,7
+11/25/2020,Laptop,Electronics,1,2000000 MMK,15,800,,In-Store,Credit Card,Wholesale,2,7
+11/26/2020,Headphones,Accessories,3,125000 K.S,0,150,Naypyidaw,Agent,Cash,VIP,2,
+11/27/2020,Monitor,Electronics,5,625000 MMK,5,1250,Mandalay,Online,Cash,Wholesale,2,1
+11/28/2020,Desk,Furniture,0,750000 MMK,15,,Naypyidaw,,Credit Card,VIP,,2
+11/29/2020,Office Chair,Furniture,14,375000 MMK,,2100,Naypyidaw,Online,Mobile Pay,VIP,2,
+11/30/2020,Mobile Phone,Electronics,17,1250000 MMK,0,8500,,In-Store,Mobile Pay,,4,5
+12/1/2020,Keyboard,Accessories,10,100000 MMK,,400,,,Cash,,5,2
+12/2/2020,Monitor,Electronics,5,625000 MMK,5,1250,Mandalay,,Cash,Wholesale,3,2
+12/3/2020,Monitor,Electronics,24,625000 MMK,10,6000,,,Cash,Wholesale,2,2
+12/4/2020,Office Chair,Furniture,5,375000 MMK,10,750,Naypyidaw,Online,,VIP,3,2
+12/5/2020,Monitor,Electronics,24,625000 MMK,0,6000,Yangon,,Cash,VIP,2,3
+12/6/2020,Keyboard,Accessories,17,100000 MMK,5,680,Yangon,Agent,Cash,,1,
+12/7/2020,Headphones,Accessories,19,125000 MMK,10,950,Yangon,Agent,Cash,,5,3
+12/8/2020,Office Chair,Furniture,2,375000 MMK,15,300,Naypyidaw,In-Store,Credit Card,Retail,5,5
+12/9/2020,Office Chair,Furniture,-2,375000 MMK,5,,Naypyidaw,In-Store,Credit Card,VIP,4,5
+12/10/2020,Headphones,Accessories,6,125000 MMK,15,300,Mandalay,In-Store,Credit Card,VIP,1,1
+12/11/2020,Mouse,Accessories,20,62500 MMK,0,500,,In-Store,Mobile Pay,,5,1
+12/12/2020,Headphones,Accessories,11,125000 MMK,5,550,nay pyi daw,In-Store,,VIP,2,-1
+12/13/2020,Monitor,Electronics,11,625000 MMK,15,2750,Naypyidaw,In-Store,,,4,1
+12/14/2020,Monitor,Electronics,9,625000 MMK,,2250,Naypyidaw,In-Store,,Wholesale,4,2
+12/15/2020,Laptop,Electronics,23,2000000 MMK,10,18400,Yangon,Online,Mobile Pay,Wholesale,3,3
+12/16/2020,Keyboard,Accessories,1,100000 MMK,,40,Mandalay,Online,Credit Card,,1,1
+12/17/2020,Headphones,Accessories,17,125000 MMK,15,850,Mandalay,Agent,Mobile Pay,Retail,4,7
+12/18/2020,Mouse,Accessories,17,62500 MMK,,425,Naypyidaw,Online,Cash,Retail,,-1
+12/19/2020,Laptop,Electronics,16,2000000 MMK,15,12800,,Agent,Mobile Pay,VIP,4,5
+12/20/2020,Office Chair,Furniture,19,375000 MMK,0,2850,Naypyidaw,In-Store,Credit Card,,,1
+12/21/2020,Mobile Phone,Electronics,6,1250000 MMK,,3000,Yangon,,Cash,Retail,3,7
+12/22/2020,Mobile Phone,Electronics,12,1250000 MMK,15,6000,Bago,In-Store,Credit Card,VIP,2,-1
+12/23/2020,Office Chair,Furniture,6,375000 MMK,5,900,,Agent,,Wholesale,,-1
+12/24/2020,Monitor,Electronics,11,625000 MMK,5,2750,Bago,In-Store,Cash,,2,
+12/25/2020,Mouse,Accessories,2,62500 MMK,,50,Mandalay,In-Store,Mobile Pay,VIP,4,1
+12/26/2020,Office Chair,Furniture,19,375000 MMK,0,2850,Mandalay,Agent,Mobile Pay,,,3
+12/27/2020,Mobile Phone,Electronics,-2,1250000 MMK,10,,Naypyidaw,In-Store,Cash,,4,-1
+12/28/2020,Keyboard,Accessories,21,100000 MMK,,840,Yangon,Agent,Credit Card,,2,7
+12/29/2020,Keyboard,Accessories,22,100000 Kyats,5,880,Naypyidaw,In-Store,Mobile Pay,,5,5
+12/30/2020,Monitor,Electronics,2,625000 MMK,5,500,Bago,Agent,Cash,Wholesale,3,1
+12/31/2020,Mobile Phone,Electronics,9,1250000 MMK,5,4500,Bago,,Credit Card,VIP,3,7
+1/1/2021,Monitor,Electronics,20,625000 MMK,0,5000,Mandalay,Agent,Mobile Pay,VIP,,-1
+1/2/2021,Headphones,Accessories,13,125000 MMK,15,650,Bago,Online,,,5,3
+1/3/2021,Monitor,Electronics,22,625000 MMK,,5500,Naypyidaw,In-Store,Cash,Wholesale,2,
+1/4/2021,Monitor,Electronics,18,625000 MMK,5,4500,Mandalay,In-Store,Mobile Pay,Wholesale,,
+1/5/2021,Mobile Phone,Electronics,2,1250000 MMK,5,1000,Mandalay,In-Store,Credit Card,Wholesale,3,2
+1/6/2021,Office Chair,Furniture,20,375000 MMK,10,3000,Bago,In-Store,,Wholesale,5,-1
+1/7/2021,Headphones,Accessories,1,125000 MMK,10,50,Bago,In-Store,,VIP,5,-1
+1/8/2021,Keyboard,Accessories,2,100000 MMK,10,80,,Agent,Credit Card,,5,-1
+1/9/2021,Desk,Furniture,19,750000 MMK,0,5700,,Online,,VIP,4,2
+1/10/2021,Monitor,Electronics,9,625000 MMK,,2250,Bago,In-Store,Credit Card,VIP,4,5
+1/11/2021,Keyboard,Accessories,0,100000 MMK,0,,Naypyidaw,In-Store,Cash,VIP,1,5
+1/12/2021,Laptop,Electronics,13,2000000 MMK,0,10400,Mandalay,Agent,Cash,VIP,4,7
+1/13/2021,Laptop,Electronics,10,2000000 MMK,0,8000,Yangon,Online,Mobile Pay,Retail,,1
+1/14/2021,Keyboard,Accessories,15,100000 MMK,15,600,,Online,,VIP,3,-1
+1/15/2021,Monitor,Electronics,17,625000 MMK,15,4250,Bago,In-Store,Cash,,3,-1
+1/16/2021,Desk,Furniture,11,750000 MMK,0,3300,Naypyidaw,In-Store,Cash,Wholesale,3,2
+1/17/2021,Office Chair,Furniture,21,375000 MMK,0,3150,Yangon,,,VIP,1,-1
+1/18/2021,Laptop,Electronics,22,2000000 MMK,,17600,Yangon,In-Store,,VIP,1,3
+1/19/2021,Mouse,Accessories,5,62500 MMK,10,125,Bago,In-Store,,VIP,3,2
+1/20/2021,Monitor,Electronics,4,625000 MMK,10,1000,Yangon,Online,,VIP,,5
+1/21/2021,Monitor,Electronics,10,625000 MMK,0,2500,Bago,,,VIP,2,1
+1/22/2021,Monitor,Electronics,15,625000 MMK,0,3750,Bago,Agent,Cash,Wholesale,4,3
+1/23/2021,Keyboard,Accessories,13,100000 MMK,5,520,,In-Store,Credit Card,VIP,1,2
+1/24/2021,Laptop,Electronics,19,2000000 MMK,10,15200,,Online,Mobile Pay,,5,7
+1/25/2021,Keyboard,Accessories,13,100000 MMK,,520,Naypyidaw,Agent,Mobile Pay,VIP,,5
+1/26/2021,Laptop,Electronics,9,2000000 MMK,10,7200,,,,VIP,2,1
+1/27/2021,Laptop,Electronics,18,2000000 MMK,,14400,Bago,Online,Mobile Pay,,5,1
+1/28/2021,Headphones,Accessories,13,125000 MMK,,650,,,Cash,Wholesale,4,3
+1/29/2021,Office Chair,Furniture,14,375000 MMK,5,2100,Naypyidaw,Agent,,,1,5
+1/30/2021,Mobile Phone,Electronics,16,1250000 MMK,0,8000,Naypyidaw,,Credit Card,Retail,4,2
+1/31/2021,Keyboard,Accessories,10,100000 MMK,,400,,Agent,Credit Card,,2,5
+2/1/2021,Monitor,Electronics,22,625000 MMK,,5500,Yangon,In-Store,,,2,
+2/2/2021,Desk,Furniture,4,750000 MMK,10,1200,,,Credit Card,,,-1
+2/3/2021,Monitor,Electronics,5,625000 MMK,5,1250,,,,,,7
+2/4/2021,Keyboard,Accessories,8,100000 MMK,10,320,Yangon,,Credit Card,Wholesale,3,7
+2/5/2021,Laptop,Electronics,19,2000000 MMK,15,15200,Yangon,Agent,Credit Card,Wholesale,,5
+2/6/2021,Monitor,Electronics,3,625000 MMK,0,750,Bago,Agent,Cash,Retail,4,2
+2/7/2021,Office Chair,Furniture,7,375000 MMK,0,1050,Naypyidaw,In-Store,,Wholesale,1,2
+2/8/2021,Laptop,Electronics,16,2000000 MMK,0,12800,Bago,In-Store,Credit Card,Retail,3,5
+2/9/2021,Mobile Phone,Electronics,17,1250000 MMK,10,8500,Bago,Agent,,Retail,2,7
+"Wednesday, February 10, 2021",Laptop,Electronics,1,2000000 MMK,15,800,Naypyidaw,In-Store,Cash,,4,3
+2/11/2021,Desk,Furniture,15,750000 MMK,,4500,Bago,,,VIP,1,3
+2/12/2021,Mobile Phone,Electronics,0,1250000 MMK,15,,Naypyidaw,Agent,Credit Card,VIP,4,2
+2/13/2021,Office Chair,Furniture,4,375000 MMK,15,600,,,,Wholesale,1,3
+2/14/2021,Keyboard,Accessories,23,100000 MMK,10,920,Yangon,,Mobile Pay,Wholesale,5,5
+2/15/2021,Mouse,Accessories,22,62500 MMK,,550,Naypyidaw,,Cash,VIP,2,
+2/16/2021,Keyboard,Accessories,14,100000 MMK,10,560,Naypyidaw,Online,,Retail,1,3
+2/17/2021,Headphones,Accessories,15,125000 MMK,15,750,Yangon,Agent,Credit Card,VIP,3,-1
+2/18/2021,Desk,Furniture,12,750000 MMK,15,3600,Yangon,Online,Credit Card,Retail,2,1
+2/19/2021,Headphones,Accessories,1,125000 MMK,,50,Yangon,,Cash,,3,3
+2/20/2021,Mobile Phone,Electronics,13,1250000 MMK,5,6500,Mandalay,Agent,Cash,Retail,4,-1
+2/21/2021,Monitor,Electronics,15,625000 MMK,0,3750,Yangon,,Credit Card,VIP,1,-1
+2/22/2021,Office Chair,Furniture,17,375000 MMK,0,2550,Naypyidaw,Agent,Credit Card,Wholesale,2,3
+2/23/2021,Headphones,Accessories,14,125000 MMK,15,700,Yangon,Agent,,VIP,3,5
+2/24/2021,Headphones,Accessories,13,125000 MMK,,650,,In-Store,Credit Card,VIP,1,2
+2/25/2021,Office Chair,Furniture,10,375000 MMK,0,1500,Naypyidaw,,Credit Card,Retail,1,3
+2/26/2021,Laptop,Electronics,-2,2000000 MMK,15,,Mandalay,Online,Credit Card,Retail,4,7
+2/27/2021,Keyboard,Accessories,8,100000 MMK,10,320,Mandalay,Agent,,Retail,1,2
+2/28/2021,Office Chair,Furniture,10,375000 MMK,0,1500,Bago,In-Store,,Wholesale,2,2
+3/1/2021,Keyboard,Accessories,-1,100000 MMK,15,,Bago,,Credit Card,VIP,5,3
+3/2/2021,Office Chair,Furniture,9,375000 MMK,10,1350,Bago,Online,Mobile Pay,Retail,3,5
+3/3/2021,Mouse,Accessories,7,62500 MMK,5,175,Yangon,Agent,Cash,Retail,3,2
+3/4/2021,Mouse,Accessories,13,62500 MMK,,325,Naypyidaw,In-Store,,VIP,3,2
+3/5/2021,Laptop,Electronics,1,2000000 MMK,,800,Mandalay,Online,Cash,Retail,5,-1
+3/6/2021,Laptop,Electronics,15,2000000 MMK,,12000,Mandalay,Agent,Mobile Pay,VIP,4,-1
+3/7/2021,Headphones,Accessories,20,125000 MMK,15,1000,Bago,Online,,Wholesale,1,5
+3/8/2021,Desk,Furniture,15,750000 MMK,15,4500,Bago,,Mobile Pay,Retail,5,5
+3/9/2021,Desk,Furniture,0,750000 MMK,15,,Naypyidaw,Online,Credit Card,VIP,4,7
+3/10/2021,Headphones,Accessories,-1,125000 MMK,15,,Bago,Agent,Mobile Pay,Retail,2,-1
+3/11/2021,Mobile Phone,Electronics,24,1250000 MMK,5,12000,Mandalay,In-Store,Cash,,5,1
+3/12/2021,Monitor,Electronics,1,625000 MMK,5,250,Mandalay,In-Store,,,1,7
+3/13/2021,Monitor,Electronics,17,625000 MMK,,4250,Bago,Online,Cash,,,3
+3/14/2021,Headphones,Accessories,5,125000 MMK,,250,,,Credit Card,,4,1
+3/15/2021,Mouse,Accessories,4,62500 MMK,15,100,,Online,Credit Card,VIP,3,7
+3/16/2021,Headphones,Accessories,3,125000 MMK,15,150,Mandalay,Online,Mobile Pay,VIP,1,
+3/17/2021,Desk,Furniture,3,750000 MMK,10,900,Bago,,Mobile Pay,Retail,5,-1
+3/18/2021,Mouse,Accessories,23,62500 MMK,0,575,Naypyidaw,Agent,Cash,VIP,,2
+3/19/2021,Mouse,Accessories,20,62500 MMK,0,500,Yangon,Agent,Credit Card,,3,3
+3/20/2021,Keyboard,Accessories,1,100000 MMK,0,40,Naypyidaw,,Cash,,2,7
+3/21/2021,Laptop,Electronics,8,2000000 MMK,5,6400,Naypyidaw,In-Store,,VIP,2,1
+3/22/2021,Headphones,Accessories,18,125000 MMK,15,900,,In-Store,,VIP,3,-1
+3/23/2021,Mouse,Accessories,0,62500 MMK,10,,Mandalay,,Mobile Pay,VIP,3,5
+3/24/2021,Monitor,Electronics,6,625000 MMK,5,1500,Yangon,In-Store,Mobile Pay,VIP,5,5
+3/25/2021,Laptop,Electronics,-2,2000000 kyats,10,,Mandalay,,,VIP,,1
+3/26/2021,Laptop,Electronics,24,2000000 MMK,0,19200,Yangon,In-Store,Mobile Pay,,3,
+3/27/2021,Mobile Phone,Electronics,7,1250000 MMK,5,3500,Naypyidaw,Online,Credit Card,Retail,4,7
+3/28/2021,Desk,Furniture,7,750000 MMK,10,2100,Bago,Online,Cash,VIP,2,3
+3/29/2021,Laptop,Electronics,1,2000000 MMK,0,800,Naypyidaw,,Cash,VIP,1,5
+3/30/2021,Mobile Phone,Electronics,19,1250000 MMK,0,9500,,,Credit Card,Wholesale,5,5
+3/31/2021,Mobile Phone,Electronics,8,1250000 MMK,10,4000,,,Credit Card,Wholesale,3,3
+4/1/2021,Headphones,Accessories,-2,125000 MMK,0,,Bago,,,Retail,,5
+4/2/2021,Desk,Furniture,10,750000 MMK,0,3000,Bago,,Cash,VIP,1,7
+4/3/2021,Desk,Furniture,0,750000 MMK,5,,Mandalay,Online,Credit Card,VIP,,7
+4/4/2021,Desk,Furniture,21,750000 MMK,5,6300,Bago,Online,Credit Card,VIP,4,
+4/5/2021,Laptop,Electronics,4,2000000 MMK,15,3200,Bago,Agent,Credit Card,,,2
+4/6/2021,Office Chair,Furniture,9,375000 MMK,0,1350,Mandalay,Agent,,Wholesale,3,1
+4/7/2021,Office Chair,Furniture,7,375000 MMK,,1050,,In-Store,,Retail,3,-1
+4/8/2021,Laptop,Electronics,4,2000000 MMK,,3200,Yangon,,Mobile Pay,VIP,4,7
+4/9/2021,Keyboard,Accessories,1,100000 MMK,0,40,Mandalay,Online,Mobile Pay,Retail,3,5
+4/10/2021,Keyboard,Accessories,21,100000 MMK,0,840,Naypyidaw,,Mobile Pay,,,2
+4/11/2021,Headphones,Accessories,9,125000 MMK,,450,Naypyidaw,,,Retail,1,7
+4/12/2021,Monitor,Electronics,21,625000 MMK,10,5250,Yangon,Online,Credit Card,VIP,2,3
+4/13/2021,Laptop,Electronics,10,2000000 MMK,0,8000,Yangon,In-Store,Mobile Pay,VIP,4,-1
+4/14/2021,Mobile Phone,Electronics,12,1250000 MMK,10,6000,,In-Store,Cash,,3,
+4/15/2021,Keyboard,Accessories,2,100000 MMK,15,80,Naypyidaw,Agent,Cash,,,2
+4/16/2021,Laptop,Electronics,11,2000000 MMK,15,8800,Bago,,Credit Card,VIP,,1
+4/17/2021,Monitor,Electronics,9,625000 MMK,10,2250,,,,Retail,,3
+4/18/2021,Mobile Phone,Electronics,12,1250000 MMK,15,6000,Bago,Online,Mobile Pay,Retail,1,
+4/19/2021,Laptop,Electronics,24,2000000 MMK,15,19200,Naypyidaw,Online,Cash,Wholesale,3,5
+4/20/2021,Office Chair,Furniture,5,375000 MMK,5,750,Naypyidaw,Agent,Mobile Pay,Wholesale,5,7
+4/21/2021,Office Chair,Furniture,17,375000 MMK,10,2550,Bago,Online,Mobile Pay,Retail,5,5
+4/22/2021,Office Chair,Furniture,-2,375000 MMK,5,,Mandalay,Agent,Credit Card,Retail,2,3
+4/23/2021,Keyboard,Accessories,8,100000 MMK,5,320,,In-Store,Mobile Pay,Retail,4,3
+4/24/2021,Headphones,Accessories,13,125000 MMK,10,650,Bago,In-Store,,VIP,4,2
+4/25/2021,Mouse,Accessories,-2,62500 MMK,0,,Mandalay,,,VIP,1,7
+4/26/2021,Headphones,Accessories,1,125000 MMK,10,50,Mandalay,Online,Cash,Wholesale,3,7
+4/27/2021,Keyboard,Accessories,4,100000 MMK,10,160,Bago,,,Wholesale,1,5
+4/28/2021,Headphones,Accessories,0,125000 MMK,10,,Naypyidaw,,,Wholesale,3,-1
+4/29/2021,Mouse,Accessories,3,62500 MMK,10,75,Bago,,,,5,3
+4/30/2021,Mobile Phone,Electronics,-2,1250000 MMK,0,,Yangon,Online,Cash,Wholesale,4,2
+5/1/2021,Mobile Phone,Electronics,12,1250000 MMK,10,6000,Yangon,In-Store,Mobile Pay,Retail,5,-1
+5/2/2021,Headphones,Accessories,11,125000 MMK,10,550,Yangon,Agent,Mobile Pay,Wholesale,1,1
+5/3/2021,Mouse,Accessories,23,62500 MMK,0,575,Mandalay,Agent,Credit Card,,5,3
+5/4/2021,Mouse,Accessories,16,62500 MMK,10,400,Yangon,In-Store,Credit Card,Wholesale,1,1
+5/5/2021,Desk,Furniture,20,750000 MMK,15,6000,,Online,Mobile Pay,Wholesale,2,
+5/6/2021,Desk,Furniture,-1,750000 MMK,10,,Naypyidaw,Online,Mobile Pay,VIP,3,
+5/7/2021,Monitor,Electronics,12,625000 MMK,10,3000,Naypyidaw,In-Store,Cash,Retail,4,3
+5/8/2021,Laptop,Electronics,20,2000000 MMK,,16000,,Agent,Credit Card,Retail,3,-1
+5/9/2021,Keyboard,Accessories,24,100000 MMK,10,960,Naypyidaw,Online,Mobile Pay,,2,5
+5/10/2021,Mobile Phone,Electronics,19,1250000 MMK,15,9500,Bago,In-Store,,Retail,5,2
+5/11/2021,Office Chair,Furniture,20,375000 MMK,5,3000,Bago,In-Store,Mobile Pay,VIP,3,7
+5/12/2021,Mouse,Accessories,-1,62500 MMK,,,Mandalay,,Cash,VIP,4,1
+5/13/2021,Laptop,Electronics,11,2000000 MMK,,8800,Naypyidaw,In-Store,Cash,,,
+5/14/2021,Monitor,Electronics,12,625000 MMK,10,3000,Mandalay,,Mobile Pay,VIP,,1
+5/15/2021,Headphones,Accessories,14,125000 MMK,,700,,,Mobile Pay,VIP,5,5
+5/16/2021,Monitor,Electronics,22,625000 MMK,0,5500,Bago,Online,Cash,Retail,4,-1
+5/17/2021,Laptop,Electronics,-1,2000000 MMK,,,Yangon,Agent,Credit Card,Wholesale,4,-1
+5/18/2021,Office Chair,Furniture,10,375000 MMK,5,1500,,,Credit Card,Wholesale,1,1
+5/19/2021,Mouse,Accessories,1,62500 MMK,10,25,Yangon,In-Store,,,4,-1
+5/20/2021,Monitor,Electronics,7,625000 MMK,,1750,Mandalay,Online,,,,5
+5/21/2021,Mouse,Accessories,-2,62500 MMK,15,,,In-Store,Mobile Pay,VIP,5,1
+5/22/2021,Keyboard,Accessories,-2,100000 MMK,5,,Mandalay,Online,Mobile Pay,Retail,5,3
+5/23/2021,Office Chair,Furniture,3,375000 MMK,10,450,,Agent,,Retail,2,1
+5/24/2021,Keyboard,Accessories,-1,100000 MMK,10,,Bago,,Cash,VIP,,2
+5/25/2021,Mobile Phone,Electronics,9,1250000 MMK,5,4500,mdy,,,,4,7
+5/26/2021,Mouse,Accessories,5,62500 MMK,5,125,,Agent,Cash,,,3
+5/27/2021,Mouse,Accessories,24,62500 MMK,15,600,Bago,,Cash,VIP,1,7
+5/28/2021,Mouse,Accessories,12,62500 MMK,10,300,Mandalay,Agent,Mobile Pay,Wholesale,2,-1
+5/29/2021,Keyboard,Accessories,10,100000 MMK,,400,Bago,In-Store,,Wholesale,3,7
+5/30/2021,Monitor,Electronics,21,625000 MMK,15,5250,Yangon,In-Store,Credit Card,Wholesale,4,3
+5/31/2021,Mouse,Accessories,19,62500 MMK,10,475,Bago,Agent,,VIP,1,1
+6/1/2021,Headphones,Accessories,18,125000 MMK,,900,Bago,In-Store,Cash,,1,5
+6/2/2021,Mouse,Accessories,21,62500 MMK,5,525,Yangon,In-Store,Mobile Pay,VIP,4,
+6/3/2021,Laptop,Electronics,21,2000000 MMK,15,16800,,Agent,Cash,Wholesale,,-1
+6/4/2021,Headphones,Accessories,2,125000 KYATS,10,100,Mandalay,,Credit Card,Retail,,
+6/5/2021,Office Chair,Furniture,1,375000 MMK,0,150,Yangon,In-Store,Cash,,2,5
+6/6/2021,Mobile Phone,Electronics,9,1250000 MMK,0,4500,Mandalay,Online,,Retail,1,5
+6/7/2021,Keyboard,Accessories,12,100000 MMK,5,480,Yangon,Online,,Wholesale,5,
+6/8/2021,Monitor,Electronics,0,625000 MMK,0,,Naypyidaw,In-Store,Cash,,1,
+6/9/2021,Office Chair,Furniture,13,375000 MMK,0,1950,Mandalay,,,VIP,4,
+6/10/2021,Desk,Furniture,21,750000 MMK,10,6300,,In-Store,Credit Card,,1,
+6/11/2021,Mobile Phone,Electronics,7,1250000 MMK,10,3500,Yangon,,,,3,7
+6/12/2021,Mouse,Accessories,24,62500 MMK,0,600,,,Cash,,4,5
+6/13/2021,Office Chair,Furniture,5,375000 MMK,5,750,Mandalay,Agent,Cash,VIP,4,-1
+6/14/2021,Headphones,Accessories,-2,125000 MMK,,,Yangon,Online,Credit Card,VIP,,
+6/15/2021,Office Chair,Furniture,15,375000 MMK,15,2250,Mandalay,In-Store,Mobile Pay,VIP,3,-1
+6/16/2021,Desk,Furniture,-1,750000 MMK,15,,,In-Store,,,1,3
+6/17/2021,Desk,Furniture,23,750000 MMK,10,6900,Naypyidaw,In-Store,Mobile Pay,VIP,5,
+6/18/2021,Mobile Phone,Electronics,1,1250000 MMK,,500,Naypyidaw,Agent,Credit Card,Retail,3,
+6/19/2021,Mobile Phone,Electronics,0,1250000 MMK,5,,Yangon,Online,Credit Card,Retail,3,3
+6/20/2021,Mouse,Accessories,15,62500 MMK,,375,,Online,Cash,Retail,4,-1
+6/21/2021,Keyboard,Accessories,23,100000 MMK,,920,Bago,In-Store,Mobile Pay,VIP,5,3
+6/22/2021,Desk,Furniture,4,750000 MMK,10,1200,Mandalay,In-Store,Mobile Pay,Wholesale,5,-1
+6/23/2021,Keyboard,Accessories,18,100000 MMK,0,720,Naypyidaw,,Cash,VIP,,-1
+6/24/2021,Monitor,Electronics,8,625000 MMK,0,2000,Bago,In-Store,Mobile Pay,VIP,3,5
+6/25/2021,Headphones,Accessories,7,125000 MMK,15,350,Naypyidaw,Online,Credit Card,VIP,1,7
+6/26/2021,Desk,Furniture,12,750000 MMK,,3600,,,Mobile Pay,VIP,3,1
+6/27/2021,Desk,Furniture,5,750000 MMK,,1500,,Agent,Cash,,5,
+6/28/2021,Monitor,Electronics,2,625000 MMK,0,500,,Online,Cash,,5,-1
+6/29/2021,Desk,Furniture,16,750000 MMK,0,4800,Naypyidaw,Agent,Cash,VIP,1,1
+6/30/2021,Mouse,Accessories,11,62500 MMK,5,275,,Agent,Mobile Pay,Retail,4,2
+7/1/2021,Mouse,Accessories,12,62500 MMK,15,300,,In-Store,Credit Card,VIP,5,7
+7/2/2021,Mobile Phone,Electronics,1,1250000 MMK,5,500,NPD,In-Store,Cash,VIP,5,-1
+7/3/2021,Keyboard,Accessories,2,100000 MMK,,80,Mandalay,In-Store,Credit Card,VIP,2,1
+7/4/2021,Headphones,Accessories,14,125000 MMK,15,700,Mandalay,In-Store,Cash,,2,1
+7/5/2021,Office Chair,Furniture,-2,375000 MMK,15,,Naypyidaw,,Credit Card,VIP,4,3
+7/6/2021,Laptop,Electronics,-2,2000000 MMK,,,Mandalay,In-Store,Cash,VIP,3,-1
+7/7/2021,Mouse,Accessories,11,62500 MMK,5,275,Yangon,Online,,Wholesale,3,1
+7/8/2021,Desk,Furniture,2,750000 MMK,,600,Naypyidaw,Online,Cash,,5,7
+7/9/2021,Monitor,Electronics,4,625000,0,1000,Naypyidaw,Online,Credit Card,VIP,1,1
+7/10/2021,Headphones,Accessories,0,125000 MMK,0,,Yangon,,Credit Card,,5,
+7/11/2021,Headphones,Accessories,9,125000 MMK,10,450,Naypyidaw,Online,,VIP,3,5
+7/12/2021,Headphones,Accessories,16,125000 MMK,10,800,Yangon,Online,Mobile Pay,Wholesale,3,1
+7/13/2021,Laptop,Electronics,10,2000000 MMK,5,8000,Yangon,In-Store,Credit Card,Retail,,-1
+7/14/2021,Mouse,Accessories,1,62500 MMK,0,25,Mandalay,In-Store,,,1,2
+7/15/2021,Headphones,Accessories,9,125000 MMK,15,450,Yangon,In-Store,Credit Card,Wholesale,5,7
+7/16/2021,Keyboard,Accessories,23,100000 MMK,10,920,Yangon,Online,Cash,Retail,2,5
+7/17/2021,Mobile Phone,Electronics,0,1250000 MMK,0,,Yangon,Online,Cash,Retail,5,5
+7/18/2021,Mouse,Accessories,21,62500 MMK,5,525,Yangon,Agent,Mobile Pay,Wholesale,4,7
+7/19/2021,Keyboard,Accessories,-2,100000 MMK,10,,,Agent,Cash,,,-1
+7/20/2021,Office Chair,Furniture,1,375000 MMK,5,150,Mandalay,In-Store,,,1,5
+7/21/2021,Office Chair,Furniture,8,375000 MMK,,1200,Yangon,Agent,Credit Card,,4,-1
+7/22/2021,Headphones,Accessories,-2,125000 MMK,0,,Mandalay,,Cash,VIP,3,5
+7/23/2021,Keyboard,Accessories,21,100000 MMK,5,840,,,,Wholesale,3,1
+7/24/2021,Mouse,Accessories,5,62500 MMK,5,125,Bago,In-Store,,Retail,5,7
+7/25/2021,Laptop,Electronics,21,2000000 MMK,,16800,Mandalay,In-Store,Credit Card,VIP,,7
+7/26/2021,Mobile Phone,Electronics,20,1250000 MMK,5,10000,Bago,Online,Cash,Retail,1,5
+7/27/2021,Mouse,Accessories,14,62500 MMK,0,350,,In-Store,,VIP,1,3
+7/28/2021,Laptop,Electronics,20,2000000 MMK,0,16000,Mandalay,,,Wholesale,,5
+7/29/2021,Desk,Furniture,5,750000 MMK,0,1500,Mandalay,,Cash,Retail,5,2
+7/30/2021,Headphones,Accessories,14,125000 MMK,,700,Yangon,Online,,,3,
+7/31/2021,Keyboard,Accessories,10,100000 MMK,5,400,Yangon,In-Store,Cash,VIP,,-1
+8/1/2021,Headphones,Accessories,6,125000 MMK,,300,,Agent,Credit Card,Retail,1,
+8/2/2021,Mouse,Accessories,18,62500 MMK,10,450,Naypyidaw,In-Store,Credit Card,,4,
+8/3/2021,Laptop,Electronics,4,2000000 MMK,15,3200,Naypyidaw,,Mobile Pay,,1,7
+8/4/2021,Monitor,Electronics,5,625000 MMK,0,1250,Bago,Agent,Cash,,4,3
+8/5/2021,Monitor,Electronics,21,625000 MMK,,5250,Naypyidaw,In-Store,Cash,Retail,1,3
+8/6/2021,Desk,Furniture,21,750000 MMK,0,6300,Bago,In-Store,,,2,3
+8/7/2021,Desk,Furniture,20,750000 MMK,,6000,Yangon,Online,,VIP,,3
+8/8/2021,Office Chair,Furniture,0,375000 MMK,10,,Mandalay,Online,,Wholesale,5,5
+8/9/2021,Monitor,Electronics,16,625000 MMK,15,4000,Bago,,Mobile Pay,Retail,5,7
+8/10/2021,Monitor,Electronics,3,625000 MMK,15,750,Naypyidaw,,Mobile Pay,Retail,1,2
+8/11/2021,Desk,Furniture,21,750000 MMK,5,6300,Yangon,Agent,Mobile Pay,,2,5
+8/12/2021,Desk,Furniture,4,750000 MMK,,1200,Naypyidaw,Online,Credit Card,Wholesale,3,-1
+8/13/2021,Keyboard,Accessories,22,100000 MMK,0,880,,Online,,Retail,4,3
+8/14/2021,Office Chair,Furniture,10,375000 MMK,15,1500,Mandalay,,Credit Card,,,2
+8/15/2021,Desk,Furniture,1,750000 MMK,0,300,Yangon,Online,Credit Card,Wholesale,,1
+8/16/2021,Mouse,Accessories,11,62500 MMK,5,275,Mandalay,In-Store,Mobile Pay,VIP,,1
+8/17/2021,Monitor,Electronics,20,625000 MMK,0,5000,Naypyidaw,,Credit Card,VIP,2,5
+8/18/2021,Desk,Furniture,6,750000 MMK,15,1800,,In-Store,Credit Card,Wholesale,1,2
+8/19/2021,Mobile Phone,Electronics,21,1250000 MMK,,10500,Yangon,Agent,Mobile Pay,Wholesale,2,5
+8/20/2021,Keyboard,Accessories,6,100000 MMK,5,240,Mandalay,Online,Mobile Pay,VIP,2,7
+8/21/2021,Mobile Phone,Electronics,21,1250000 MMK,10,10500,Mandalay,Agent,,Retail,,2
+8/22/2021,Headphones,Accessories,2,125000 MMK,5,100,Mandalay,Agent,Credit Card,Wholesale,3,5
+8/23/2021,Monitor,Electronics,10,625000 MMK,15,2500,,,,VIP,5,5
+8/24/2021,Keyboard,Accessories,8,100000 MMK,5,320,,Agent,Mobile Pay,VIP,3,2
+8/25/2021,Headphones,Accessories,5,125000 MMK,10,250,Mandalay,In-Store,,,1,-1
+8/26/2021,Office Chair,Furniture,24,375000 MMK,,3600,Yangon,,Credit Card,Wholesale,,3
+8/27/2021,Mouse,Accessories,0,62500 MMK,15,,Bago,Online,Cash,,2,
+8/28/2021,Desk,Furniture,4,750000 MMK,0,1200,,Agent,Cash,Retail,,3
+8/29/2021,Headphones,Accessories,10,125000 MMK,,500,,,Mobile Pay,VIP,5,
+8/30/2021,Headphones,Accessories,14,125000 MMK,15,700,Mandalay,Agent,Credit Card,,5,-1
+8/31/2021,Laptop,Electronics,11,2000000 MMK,0,8800,Bago,,Mobile Pay,,4,7
+9/1/2021,Mobile Phone,Electronics,16,1250000 MMK,,8000,Yangon,Online,Credit Card,Wholesale,2,5
+9/2/2021,Laptop,Electronics,24,2000000 MMK,15,19200,Bago,In-Store,,Wholesale,3,2
+"Friday, September 3, 2021",Headphones,Accessories,0,125000 MMK,0,,Naypyidaw,Agent,Credit Card,VIP,1,7
+9/4/2021,Mobile Phone,Electronics,21,1250000 MMK,,10500,,Agent,Cash,Wholesale,4,7
+9/5/2021,Mobile Phone,Electronics,22,1250000 MMK,,11000,Bago,Agent,Mobile Pay,Wholesale,2,5
+9/6/2021,Desk,Furniture,5,750000 MMK,0,1500,,,Credit Card,Wholesale,3,5
+9/7/2021,Keyboard,Accessories,5,100000 MMK,0,200,Naypyidaw,Agent,,,4,7
+9/8/2021,Mouse,Accessories,7,62500 MMK,10,175,Yangon,Agent,Mobile Pay,,5,
+9/9/2021,Keyboard,Accessories,16,100000 MMK,5,640,Yangon,In-Store,,Retail,3,1
+9/10/2021,Monitor,Electronics,7,625000 MMK,,1750,Naypyidaw,In-Store,Credit Card,Retail,5,1
+9/11/2021,Office Chair,Furniture,20,375000 MMK,5,3000,,Agent,Mobile Pay,Retail,1,-1
+9/12/2021,Laptop,Electronics,-1,2000000 MMK,10,,Yangon,In-Store,Cash,,5,-1
+9/13/2021,Mouse,Accessories,24,62500 MMK,5,600,Mandalay,,Cash,Wholesale,,7
+9/14/2021,Headphones,Accessories,19,125000 MMK,15,950,,Agent,,VIP,1,3
+9/15/2021,Keyboard,Accessories,8,100000 MMK,10,320,,Online,,Wholesale,1,
+9/16/2021,Desk,Furniture,23,750000 MMK,10,6900,Yangon,,,VIP,3,2
+9/17/2021,Office Chair,Furniture,6,375000 MMK,15,900,Bago,,Credit Card,Retail,1,3
+9/18/2021,Monitor,Electronics,20,625000 MMK,0,5000,Bago,,Credit Card,Wholesale,,3
+9/19/2021,Mouse,Accessories,2,62500 MMK,5,50,Mandalay,Online,,VIP,1,3
+9/20/2021,Mouse,Accessories,15,62500 MMK,0,375,Yangon,Agent,,Retail,4,1
+9/21/2021,Laptop,Electronics,6,2000000 MMK,5,4800,Naypyidaw,Agent,,VIP,1,1
+9/22/2021,Mobile Phone,Electronics,0,1250000 MMK,,,Bago,,Mobile Pay,,4,3
+9/23/2021,Desk,Furniture,0,750000 MMK,,,Naypyidaw,,,,4,
+9/24/2021,Laptop,Electronics,20,2000000 MMK,10,16000,,In-Store,Cash,VIP,,1
+9/25/2021,Mobile Phone,Electronics,3,1250000 MMK,10,1500,Yangon,In-Store,Cash,VIP,5,
+9/26/2021,Office Chair,Furniture,16,375000 MMK,15,2400,Naypyidaw,,Mobile Pay,Retail,1,-1
+9/27/2021,Keyboard,Accessories,8,100000 MMK,10,320,,Agent,Mobile Pay,,3,1
+9/28/2021,Keyboard,Accessories,22,100000 MMK,15,880,Mandalay,Agent,Credit Card,Wholesale,1,-1
+9/29/2021,Mobile Phone,Electronics,14,1250000 MMK,15,7000,Naypyidaw,Agent,Credit Card,VIP,1,2
+9/30/2021,Headphones,Accessories,9,125000 MMK,10,450,Mandalay,In-Store,Mobile Pay,,1,-1
+10/1/2021,Office Chair,Furniture,1,375000 MMK,5,150,Yangon,,Credit Card,Retail,4,7
+10/2/2021,Desk,Furniture,1,750000 MMK,,300,Naypyidaw,In-Store,,VIP,3,5
+10/3/2021,Mouse,Accessories,1,62500 MMK,15,25,,Agent,Mobile Pay,Retail,5,7
+10/4/2021,Headphones,Accessories,11,125000 MMK,0,550,,Online,Credit Card,Retail,3,5
+10/5/2021,Keyboard,Accessories,21,100000 MMK,0,840,,,,Retail,1,2
+10/6/2021,Desk,Furniture,24,750000 MMK,10,7200,Yangon,,Credit Card,Retail,1,-1
+10/7/2021,Desk,Furniture,0,750000 MMK,0,,Yangon,Agent,Mobile Pay,Retail,4,3
+10/8/2021,Desk,Furniture,18,750000 MMK,,5400,Mandalay,Agent,Credit Card,,5,2
+10/9/2021,Mouse,Accessories,17,62500 MMK,10,425,Bago,Online,Cash,Retail,,
+10/10/2021,Monitor,Electronics,-2,625000 MMK,0,,,Online,Cash,VIP,4,5
+10/11/2021,Mobile Phone,Electronics,9,1250000 MMK,10,4500,Mandalay,,Credit Card,Wholesale,5,3
+10/12/2021,Office Chair,Furniture,-1,375000 MMK,10,,Naypyidaw,,Mobile Pay,VIP,5,5
+10/13/2021,Desk,Furniture,3,750000 MMK,,900,Yangon,In-Store,Mobile Pay,VIP,4,7
+10/14/2021,Mouse,Accessories,17,62500 MMK,5,425,Mandalay,Agent,Cash,VIP,1,2
+10/15/2021,Monitor,Electronics,12,625000 MMK,15,3000,Yangon,In-Store,Mobile Pay,VIP,1,
+10/16/2021,Mouse,Accessories,15,62500 MMK,0,375,Bago,In-Store,,Retail,,
+10/17/2021,Mobile Phone,Electronics,13,1250000 MMK,10,6500,,Agent,Credit Card,Retail,,
+10/18/2021,Mouse,Accessories,20,62500 MMK,15,500,,,Cash,Wholesale,,-1
+10/19/2021,Headphones,Accessories,3,125000 MMK,5,150,Naypyidaw,Agent,Cash,Wholesale,4,7
+10/20/2021,Mouse,Accessories,1,62500 MMK,,25,Mandalay,,Mobile Pay,Retail,3,
+10/21/2021,Headphones,Accessories,15,125000 MMK,10,750,Yangon,In-Store,Cash,Retail,3,5
+10/22/2021,Keyboard,Accessories,16,100000 MMK,15,640,Bago,Online,,Retail,4,1
+10/23/2021,Keyboard,Accessories,5,100000 MMK,0,200,Bago,Online,Mobile Pay,,5,
+10/24/2021,Laptop,Electronics,14,2000000 MMK,10,11200,,Online,Cash,,1,-1
+10/25/2021,Desk,Furniture,0,750000 MMK,5,,Bago,,,Retail,4,3
+10/26/2021,Keyboard,Accessories,2,100000 MMK,10,80,Bago,Online,,VIP,4,1
+10/27/2021,Mobile Phone,Electronics,16,1250000 MMK,10,8000,Yangon,Agent,,Retail,4,3
+10/28/2021,Laptop,Electronics,16,2000000 MMK,15,12800,Naypyidaw,Online,Credit Card,Retail,2,1
+10/29/2021,Headphones,Accessories,1,125000 MMK,0,50,Naypyidaw,In-Store,Credit Card,,5,7
+10/30/2021,Keyboard,Accessories,4,100000 MMK,10,160,Yangon,In-Store,Mobile Pay,VIP,,
+10/31/2021,Mobile Phone,Electronics,7,1250000 MMK,,3500,Bago,Online,,VIP,1,2
+11/1/2021,Mouse,Accessories,1,62500 MMK,0,25,,In-Store,Mobile Pay,,,
+11/2/2021,Desk,Furniture,13,750000 MMK,5,3900,Bago,In-Store,Credit Card,Retail,3,1
+11/3/2021,Monitor,Electronics,1,625000 MMK,0,250,Yangon,,Cash,Retail,4,2
+11/4/2021,Mobile Phone,Electronics,19,1250000 MMK,10,9500,Bago,Online,Mobile Pay,Wholesale,1,
+11/5/2021,Headphones,Accessories,21,125000 MMK,10,1050,Mandalay,,,Retail,,7
+11/6/2021,Mouse,Accessories,13,62500 MMK,15,325,Naypyidaw,Agent,,VIP,2,7
+11/7/2021,Laptop,Electronics,2,2000000 MMK,,1600,Yangon,Agent,Credit Card,Retail,5,3
+11/8/2021,Keyboard,Accessories,19,100000 MMK,10,760,Mandalay,,Credit Card,Wholesale,3,2
+11/9/2021,Desk,Furniture,3,750000 MMK,5,900,Naypyidaw,Agent,Mobile Pay,VIP,2,-1
+11/10/2021,Mouse,Accessories,12,62500 MMK,5,300,Bago,,,Wholesale,2,5
+11/11/2021,Mobile Phone,Electronics,12,1250000 MMK,,6000,Bago,Agent,Cash,Wholesale,,5
+11/12/2021,Laptop,Electronics,9,2000000 MMK,15,7200,Naypyidaw,Agent,Credit Card,VIP,,7
+11/13/2021,Keyboard,Accessories,10,100000 MMK,5,400,Bago,In-Store,Cash,VIP,4,
+11/14/2021,Mobile Phone,Electronics,10,1250000 MMK,,5000,Naypyidaw,,,,5,5
+11/15/2021,Monitor,Electronics,14,625000 MMK,0,3500,Yangon,Agent,Mobile Pay,Retail,4,5
+11/16/2021,Keyboard,Accessories,6,100000 MMK,,240,Bago,Online,,VIP,2,
+11/17/2021,Headphones,Accessories,18,125000 MMK,15,900,Naypyidaw,Online,Mobile Pay,VIP,,3
+11/18/2021,Headphones,Accessories,-1,125000 MMK,15,,Mandalay,Agent,Cash,VIP,1,1
+11/19/2021,Office Chair,Furniture,10,375000 MMK,0,1500,,,,,2,5
+11/20/2021,Office Chair,Furniture,13,375000 MMK,,1950,Mandalay,In-Store,,Retail,,-1
+11/21/2021,Headphones,Accessories,7,125000 MMK,5,350,Naypyidaw,In-Store,,Wholesale,4,-1
+11/22/2021,Desk,Furniture,12,750000 MMK,,3600,Bago,Agent,Credit Card,Retail,,-1
+11/23/2021,Office Chair,Furniture,12,375000 MMK,,1800,Yangon,Agent,Mobile Pay,Wholesale,1,3
+11/24/2021,Office Chair,Furniture,-2,375000 MMK,5,,Bago,In-Store,,Wholesale,5,-1
+11/25/2021,Office Chair,Furniture,11,375000 MMK,10,1650,Yangon,Agent,Mobile Pay,Retail,4,
+11/26/2021,Mobile Phone,Electronics,4,1250000 MMK,15,2000,Yangon,,Mobile Pay,,4,1
+11/27/2021,Mobile Phone,Electronics,19,1250000 MMK,0,9500,Naypyidaw,Online,Credit Card,Wholesale,3,3
+11/28/2021,Desk,Furniture,24,750000 MMK,15,7200,Naypyidaw,In-Store,Cash,Retail,2,1
+11/29/2021,Laptop,Electronics,0,2000000 MMK,,,Yangon,,Mobile Pay,VIP,3,
+11/30/2021,Desk,Furniture,17,750000 MMK,15,5100,,,Mobile Pay,VIP,3,2
+12/1/2021,Laptop,Electronics,4,2000000 MMK,0,3200,Bago,Online,Mobile Pay,,1,3
+12/2/2021,Laptop,Electronics,16,2000000 MMK,0,12800,,Agent,,Retail,,3
+12/3/2021,Headphones,Accessories,21,125000 MMK,,1050,,,Cash,VIP,3,5
+12/4/2021,Mobile Phone,Electronics,12,1250000 MMK,10,6000,Yangon,Agent,Credit Card,,5,7
+12/5/2021,Monitor,Electronics,8,625000 MMK,,2000,,In-Store,,,,5
+12/6/2021,Office Chair,Furniture,1,375000 MMK,5,150,Yangon,Agent,Mobile Pay,VIP,3,7
+12/7/2021,Laptop,Electronics,10,2000000 MMK,,8000,Yangon,In-Store,Cash,VIP,1,5
+12/8/2021,Laptop,Electronics,1,2000000 MMK,15,800,Naypyidaw,,,,3,2
+12/9/2021,Monitor,Electronics,7,625000 MMK,5,1750,Bago,Agent,Credit Card,VIP,2,-1
+12/10/2021,Office Chair,Furniture,14,375000 MMK,0,2100,,In-Store,,VIP,,2
+12/11/2021,Monitor,Electronics,23,625000 MMK,0,5750,Bago,Agent,,Wholesale,4,2
+12/12/2021,Keyboard,Accessories,15,100000 MMK,5,600,Mandalay,In-Store,Credit Card,VIP,,3
+12/13/2021,Headphones,Accessories,8,125000 MMK,,400,Mandalay,Online,Credit Card,,1,7
+12/14/2021,Mouse,Accessories,5,62500 MMK,5,125,,,Mobile Pay,,5,2
+12/15/2021,Desk,Furniture,14,750000 MMK,10,4200,,In-Store,Cash,Retail,5,
+12/16/2021,Mobile Phone,Electronics,-2,1250000 MMK,10,,Mandalay,Agent,Credit Card,VIP,1,7
+12/17/2021,Keyboard,Accessories,21,100000 MMK,5,840,Bago,In-Store,Mobile Pay,VIP,1,5
+12/18/2021,Headphones,Accessories,21,125000 MMK,0,1050,Naypyidaw,Online,Credit Card,Retail,3,7
+12/19/2021,Laptop,Electronics,21,2000000 MMK,,16800,,,Mobile Pay,,4,-1
+12/20/2021,Desk,Furniture,10,750000 MMK,,3000,,Online,Credit Card,Wholesale,2,3
+12/21/2021,Desk,Furniture,1,750000 MMK,5,300,Naypyidaw,In-Store,Mobile Pay,Retail,,3
+12/22/2021,Monitor,Electronics,3,625000 MMK,5,750,Bago,,Credit Card,Retail,5,1
+12/23/2021,Keyboard,Accessories,10,100000 MMK,5,400,,Online,,VIP,,2
+12/24/2021,Mouse,Accessories,20,62500 MMK,15,500,Bago,Online,Cash,VIP,5,
+12/25/2021,Laptop,Electronics,5,2000000 MMK,,4000,Mandalay,In-Store,Credit Card,VIP,3,7
+12/26/2021,Monitor,Electronics,12,625000 MMK,,3000,Naypyidaw,,Mobile Pay,,,
+12/27/2021,Mouse,Accessories,10,62500 MMK,0,250,,In-Store,Credit Card,,1,2
+12/28/2021,Keyboard,Accessories,6,100000 MMK,0,240,Yangon,Online,Mobile Pay,Wholesale,1,5
+12/29/2021,Mobile Phone,Electronics,-1,1250000 MMK,5,,Bago,,,Wholesale,2,2
+12/30/2021,Mobile Phone,Electronics,15,1250000 MMK,0,7500,Mandalay,Online,Cash,VIP,3,3
+12/31/2021,Office Chair,Furniture,19,375000 MMK,,2850,Yangon,Agent,,,3,
+1/1/2022,Desk,Furniture,8,750000 MMK,,2400,Yangon,Online,Cash,VIP,2,
+1/2/2022,Desk,Furniture,22,750000 MMK,5,6600,Naypyidaw,,Credit Card,VIP,,2
+1/3/2022,Mobile Phone,Electronics,19,1250000 MMK,0,9500,Yangon,,Cash,,3,5
+1/4/2022,Laptop,Electronics,6,2000000 MMK,,4800,Mandalay,Agent,Cash,Retail,3,7
+1/5/2022,Office Chair,Furniture,3,375000 MMK,,450,Yangon,Online,Credit Card,,5,3
+1/6/2022,Monitor,Electronics,10,625000 MMK,5,2500,Mandalay,Agent,Cash,,2,
+1/7/2022,Office Chair,Furniture,10,375000 MMK,5,1500,,,Cash,Retail,2,-1
+1/8/2022,Office Chair,Furniture,24,375000 MMK,5,3600,Mandalay,Agent,Credit Card,Retail,2,1
+1/9/2022,Monitor,Electronics,12,625000 MMK,0,3000,Mandalay,In-Store,Credit Card,Retail,,5
+1/10/2022,Monitor,Electronics,17,625000 MMK,10,4250,Bago,Agent,Credit Card,Retail,5,-1
+1/11/2022,Desk,Furniture,22,750000 MMK,10,6600,,Online,Credit Card,Retail,2,7
+1/12/2022,Mouse,Accessories,10,62500 MMK,15,250,Yangon,In-Store,Mobile Pay,VIP,,-1
+1/13/2022,Headphones,Accessories,20,125000 MMK,15,1000,Naypyidaw,Agent,Mobile Pay,Retail,,-1
+1/14/2022,Office Chair,Furniture,8,375000 MMK,,1200,,Online,Cash,VIP,1,1
+1/15/2022,Laptop,Electronics,22,2000000 MMK,15,17600,Naypyidaw,Agent,Credit Card,Retail,1,7
+1/16/2022,Laptop,Electronics,20,2000000 MMK,10,16000,Bago,Online,,,3,2
+1/17/2022,Laptop,Electronics,23,2000000 MMK,5,18400,Bago,In-Store,Credit Card,VIP,2,1
+1/18/2022,Desk,Furniture,19,750000 MMK,,5700,,In-Store,Credit Card,Retail,5,5
+1/19/2022,Monitor,Electronics,14,625000 MMK,10,3500,Mandalay,In-Store,,Retail,2,3
+1/20/2022,Monitor,Electronics,1,625000 MMK,0,250,Yangon,In-Store,,Wholesale,4,2
+1/21/2022,Headphones,Accessories,3,125000 MMK,0,150,Mandalay,In-Store,,Wholesale,,2
+1/22/2022,Office Chair,Furniture,8,375000 MMK,0,1200,Yangon,,,,2,3
+1/23/2022,Desk,Furniture,19,750000 MMK,,5700,,In-Store,Mobile Pay,Wholesale,3,2
+1/24/2022,Mobile Phone,Electronics,6,1250000 MMK,,3000,Naypyidaw,In-Store,,Retail,5,
+1/25/2022,Keyboard,Accessories,9,100000 MMK,,360,Naypyidaw,In-Store,,Wholesale,1,-1
+1/26/2022,Mouse,Accessories,-1,62500 MMK,10,,Bago,In-Store,Credit Card,Retail,2,
+1/27/2022,Headphones,Accessories,18,125000 MMK,0,900,Bago,In-Store,Mobile Pay,Wholesale,4,2
+1/28/2022,Desk,Furniture,15,750000 MMK,0,4500,Mandalay,Agent,Credit Card,Wholesale,2,-1
+1/29/2022,Office Chair,Furniture,20,375000 MMK,10,3000,Mandalay,,Credit Card,Retail,,5
+1/30/2022,Keyboard,Accessories,15,100000 MMK,5,600,Naypyidaw,Online,Credit Card,Retail,,-1
+1/31/2022,Mobile Phone,Electronics,11,1250000 MMK,5,5500,Naypyidaw,Online,,Wholesale,,2
+2/1/2022,Headphones,Accessories,21,125000 MMK,15,1050,Naypyidaw,,Credit Card,,1,5
+2/2/2022,Desk,Furniture,21,750000 MMK,,6300,,Online,Mobile Pay,Wholesale,,5
+2/3/2022,Monitor,Electronics,20,625000 MMK,10,5000,,Online,,VIP,5,3
+2/4/2022,Laptop,Electronics,1,2000000 MMK,10,800,Mandalay,Agent,,,3,3
+2/5/2022,Office Chair,Furniture,0,375000 MMK,15,,,Online,Credit Card,Wholesale,5,2
+2/6/2022,Desk,Furniture,6,750000 MMK,0,1800,,Agent,Mobile Pay,Wholesale,3,-1
+2/7/2022,Laptop,Electronics,22,2000000 MMK,15,17600,Yangon,Online,Cash,VIP,4,-1
+2/8/2022,Headphones,Accessories,11,125000 MMK,0,550,Bago,In-Store,Cash,VIP,3,7
+2/9/2022,Laptop,Electronics,18,2000000 MMK,0,14400,Mandalay,,Cash,Retail,1,3
+2/10/2022,Office Chair,Furniture,20,375000 MMK,,3000,Yangon,,Mobile Pay,Retail,5,3
+2/11/2022,Keyboard,Accessories,22,100000 MMK,10,880,Naypyidaw,In-Store,Credit Card,Wholesale,1,
+2/12/2022,Mobile Phone,Electronics,6,1250000 MMK,10,3000,Bago,In-Store,Cash,Wholesale,4,5
+2/13/2022,Office Chair,Furniture,22,375000 MMK,,3300,Bago,Online,,VIP,4,
+2/14/2022,Keyboard,Accessories,14,100000 MMK,10,560,,Online,Mobile Pay,VIP,5,7
+2/15/2022,Laptop,Electronics,6,2000000 MMK,0,4800,Naypyidaw,Agent,,Retail,3,2
+2/16/2022,Monitor,Electronics,19,625000 MMK,0,4750,Bago,In-Store,,VIP,4,7
+2/17/2022,Office Chair,Furniture,11,375000 MMK,,1650,Yangon,,Cash,VIP,3,1
+2/18/2022,Headphones,Accessories,7,125000 MMK,,350,Yangon,Online,Credit Card,VIP,5,7
+2/19/2022,Monitor,Electronics,15,625000 MMK,10,3750,,In-Store,Mobile Pay,Retail,4,2
+2/20/2022,Laptop,Electronics,11,2000000 MMK,5,8800,,In-Store,Cash,VIP,5,
+2/21/2022,Office Chair,Furniture,8,375000 MMK,,1200,Bago,,Cash,Wholesale,5,5
+2/22/2022,Keyboard,Accessories,1,100000 MMK,15,40,,In-Store,,Retail,3,-1
+2/23/2022,Office Chair,Furniture,14,375000 MMK,0,2100,Bago,Agent,Credit Card,VIP,1,5
+2/24/2022,Mobile Phone,Electronics,22,1250000 MMK,0,11000,,Online,Credit Card,,5,2
+2/25/2022,Monitor,Electronics,9,625000 MMK,5,2250,,Online,,Retail,4,7
+2/26/2022,Keyboard,Accessories,3,100000 MMK,5,120,Yangon,Agent,,Retail,4,2
+2/27/2022,Mouse,Accessories,12,62500 MMK,15,300,Mandalay,Online,Mobile Pay,VIP,2,
+2/28/2022,Keyboard,Accessories,24,100000 MMK,,960,Mandalay,In-Store,,VIP,,-1
+3/1/2022,Mobile Phone,Electronics,23,1250000 MMK,15,11500,,Online,Cash,Wholesale,4,3
+3/2/2022,Mouse,Accessories,4,62500 MMK,5,100,Yangon,Agent,,,1,3
+3/3/2022,Keyboard,Accessories,12,100000 MMK,10,480,Mandalay,,Credit Card,Retail,1,2
+3/4/2022,Laptop,Electronics,24,2000000 MMK,,19200,,,Cash,,3,3
+3/5/2022,Desk,Furniture,21,750000 MMK,15,6300,,Online,Cash,,2,1
+3/6/2022,Mouse,Accessories,17,62500 MMK,10,425,Mandalay,Online,Mobile Pay,Retail,1,7
+3/7/2022,Mouse,Accessories,17,62500 MMK,10,425,Mandalay,Online,Mobile Pay,Retail,1,7
+3/8/2022,Mouse,Accessories,5,62500 MMK,5,125,,Online,Mobile Pay,Retail,3,
+3/9/2022,Laptop,Electronics,23,2000000 MMK,,18400,Bago,Agent,Mobile Pay,,2,1
+"Thursday, March 10, 2022",Mouse,Accessories,3,62500 MMK,15,75,Yangon,In-Store,Mobile Pay,Wholesale,,-1
+3/11/2022,Mouse,Accessories,6,62500 MMK,15,150,,Agent,Mobile Pay,VIP,4,
+3/12/2022,Office Chair,Furniture,2,375000 MMK,10,300,Bago,In-Store,Mobile Pay,,3,7
+3/13/2022,Desk,Furniture,20,750000 MMK,5,6000,Bago,Online,,,4,1
+3/14/2022,Mouse,Accessories,16,62500 MMK,10,400,Naypyidaw,Agent,Mobile Pay,Retail,4,-1
+3/15/2022,Office Chair,Furniture,1,375000 MMK,10,150,Yangon,In-Store,Credit Card,VIP,2,5
+3/16/2022,Office Chair,Furniture,9,375000 MMK,0,1350,Mandalay,Online,,Retail,3,
+3/17/2022,Keyboard,Accessories,19,100000 MMK,15,760,Yangon,Agent,,Retail,,-1
+3/18/2022,Laptop,Electronics,17,2000000 MMK,15,13600,Mandalay,In-Store,Mobile Pay,VIP,,
+3/19/2022,Headphones,Accessories,13,125000 MMK,10,650,Bago,Online,,Retail,4,-1
+3/20/2022,Desk,Furniture,11,750000 MMK,,3300,Naypyidaw,In-Store,Cash,,2,3
+3/21/2022,Monitor,Electronics,11,625000 MMK,0,2750,Bago,In-Store,Mobile Pay,Retail,5,-1
+3/22/2022,Office Chair,Furniture,7,375000 MMK,5,1050,Yangon,In-Store,,VIP,3,2
+3/23/2022,Headphones,Accessories,22,125000 MMK,5,1100,Mandalay,,,VIP,4,5
+3/24/2022,Laptop,Electronics,4,2000000 MMK,5,3200,Yangon,Online,,VIP,1,7
+3/25/2022,Office Chair,Furniture,21,375000 MMK,0,3150,Bago,,Cash,Wholesale,5,5
+3/26/2022,Monitor,Electronics,4,625000 MMK,15,1000,,Agent,Cash,Retail,,-1
+3/27/2022,Mobile Phone,Electronics,23,1250000 MMK,15,11500,Naypyidaw,Agent,Cash,Retail,2,5
+3/28/2022,Office Chair,Furniture,8,375000 MMK,0,1200,,Agent,Credit Card,Retail,3,7
+3/29/2022,Headphones,Accessories,23,125000 MMK,0,1150,,Online,Credit Card,,1,7
+3/30/2022,Laptop,Electronics,14,2000000 MMK,15,11200,Bago,In-Store,Cash,VIP,,1
+3/31/2022,Monitor,Electronics,10,625000 MMK,10,2500,Mandalay,Online,,Retail,2,5
+4/1/2022,Mobile Phone,Electronics,10,1250000 MMK,,5000,Yangon,,Cash,VIP,1,7
+4/2/2022,Desk,Furniture,22,750000 MMK,0,6600,Mandalay,In-Store,,VIP,2,2
+4/3/2022,Mobile Phone,Electronics,-2,1250000 MMK,5,,,,Cash,Wholesale,2,3
+4/4/2022,Office Chair,Furniture,6,375000 MMK,5,900,Bago,Agent,,,3,2
+4/5/2022,Headphones,Accessories,0,125000 MMK,10,,Bago,Online,Credit Card,VIP,1,7
+4/6/2022,Mouse,Accessories,7,62500 MMK,10,175,Mandalay,Online,Credit Card,Wholesale,,2
+4/7/2022,Mouse,Accessories,9,62500 MMK,5,225,Bago,In-Store,Credit Card,,5,1
+4/8/2022,Office Chair,Furniture,22,375000 MMK,5,3300,Bago,Agent,,Wholesale,,-1
+4/9/2022,Mouse,Accessories,12,62500 MMK,10,300,Mandalay,Online,,VIP,2,1
+4/10/2022,Mouse,Accessories,3,62500 MMK,0,75,Naypyidaw,Online,Cash,Retail,4,3
+4/11/2022,Mouse,Accessories,-2,62500 MMK,0,,Mandalay,In-Store,Credit Card,Retail,5,2
+4/12/2022,Desk,Furniture,13,750000 MMK,5,3900,,,Credit Card,Wholesale,,3
+4/13/2022,Keyboard,Accessories,2,100000 MMK,,80,Yangon,,,VIP,3,7
+4/14/2022,Laptop,Electronics,23,2000000 MMK,10,18400,Yangon,Agent,,Retail,4,1
+4/15/2022,Office Chair,Furniture,19,375000 MMK,10,2850,,,,Wholesale,5,3
+4/16/2022,Office Chair,Furniture,23,375000 MMK,10,3450,Yangon,Agent,Cash,,5,1
+4/17/2022,Monitor,Electronics,21,625000 MMK,,5250,,In-Store,Mobile Pay,Retail,5,3
+4/18/2022,Office Chair,Furniture,16,375000 MMK,0,2400,Bago,Agent,Credit Card,Retail,4,2
+4/19/2022,Mobile Phone,Electronics,14,1250000 MMK,15,7000,,Agent,Mobile Pay,VIP,2,
+4/20/2022,Mouse,Accessories,5,62500 MMK,15,125,Naypyidaw,,Credit Card,VIP,1,3
+4/21/2022,Desk,Furniture,5,750000 MMK,15,1500,,Agent,Cash,VIP,,
+4/22/2022,Mobile Phone,Electronics,15,1250000 MMK,15,7500,Mandalay,,Credit Card,,3,2
+4/23/2022,Monitor,Electronics,3,625000 MMK,5,750,Naypyidaw,In-Store,Mobile Pay,Retail,2,2
+4/24/2022,Monitor,Electronics,23,625000 MMK,15,5750,Mandalay,Agent,Mobile Pay,,,1
+4/25/2022,Office Chair,Furniture,2,375000 MMK,5,300,Mandalay,Online,Cash,,4,3
+4/26/2022,Office Chair,Furniture,14,375000 MMK,5,2100,Yangon,,Cash,,2,
+4/27/2022,Desk,Furniture,6,750000 MMK,0,1800,Mandalay,In-Store,Mobile Pay,Retail,2,7
+4/28/2022,Keyboard,Accessories,14,100000 MMK,10,560,Naypyidaw,,Credit Card,Retail,4,1
+4/29/2022,Headphones,Accessories,20,125000 MMK,,1000,Yangon,Online,Mobile Pay,,,
+4/30/2022,Keyboard,Accessories,13,100000 MMK,5,520,,,,Wholesale,5,
+5/1/2022,Laptop,Electronics,13,2000000 MMK,10,10400,Mandalay,In-Store,,VIP,3,5
+5/2/2022,Mouse,Accessories,11,62500 MMK,10,275,Yangon,In-Store,,VIP,5,1
+5/3/2022,Keyboard,Accessories,5,100000 MMK,10,200,,Online,Mobile Pay,Retail,3,
+5/4/2022,Office Chair,Furniture,12,375000 MMK,5,1800,Mandalay,Agent,Cash,Retail,,1
+5/5/2022,Keyboard,Accessories,21,100000 MMK,5,840,,Online,Mobile Pay,,3,
+5/6/2022,Mouse,Accessories,21,62500 MMK,15,525,Mandalay,Agent,,VIP,5,2
+5/7/2022,Mouse,Accessories,21,62500 MMK,5,525,,Online,,,2,7
+5/8/2022,Desk,Furniture,5,750000 MMK,0,1500,Yangon,Online,,VIP,1,
+5/9/2022,Office Chair,Furniture,23,375000 MMK,,3450,Bago,Online,Mobile Pay,Retail,4,-1
+5/10/2022,Headphones,Accessories,16,125000 MMK,5,800,Naypyidaw,Online,,VIP,2,5
+5/11/2022,Office Chair,Furniture,17,375000 MMK,10,2550,Yangon,Agent,Credit Card,Wholesale,3,7
+5/12/2022,Desk,Furniture,-1,750000 MMK,15,,Naypyidaw,,Credit Card,Retail,1,-1
+5/13/2022,Monitor,Electronics,15,625000 MMK,0,3750,Yangon,In-Store,Mobile Pay,VIP,3,5
+5/14/2022,Office Chair,Furniture,11,375000 MMK,15,1650,Bago,,Cash,VIP,3,
+5/15/2022,Office Chair,Furniture,11,375000 MMK,15,1650,Yangon,Online,Cash,Wholesale,5,
+5/16/2022,Mouse,Accessories,9,62500 MMK,,225,Yangon,In-Store,Mobile Pay,,4,5
+5/17/2022,Office Chair,Furniture,12,375000 MMK,5,1800,Naypyidaw,Agent,Cash,Wholesale,5,
+5/18/2022,Laptop,Electronics,7,2000000 MMK,5,5600,Naypyidaw,In-Store,Cash,,3,-1
+5/19/2022,Mobile Phone,Electronics,6,1250000 MMK,0,3000,,,Mobile Pay,Wholesale,,
+5/20/2022,Monitor,Electronics,9,625000 MMK,5,2250,Yangon,Online,,,2,1
+5/21/2022,Keyboard,Accessories,10,100000 MMK,0,400,Mandalay,Online,Mobile Pay,VIP,4,7
+5/22/2022,Monitor,Electronics,21,625000 MMK,0,5250,Naypyidaw,In-Store,Mobile Pay,Wholesale,3,7
+5/23/2022,Keyboard,Accessories,3,100000 MMK,15,120,Yangon,,Mobile Pay,Wholesale,3,
+5/24/2022,Laptop,Electronics,12,2000000 MMK,15,9600,Naypyidaw,In-Store,Mobile Pay,Wholesale,4,3
+5/25/2022,Keyboard,Accessories,21,100000 MMK,5,840,Mandalay,Agent,Mobile Pay,,4,-1
+5/26/2022,Laptop,Electronics,7,2000000 MMK,15,5600,Mandalay,,Credit Card,Retail,4,-1
+5/27/2022,Monitor,Electronics,14,625000 MMK,15,3500,Bago,Online,Mobile Pay,,,-1
+5/28/2022,Office Chair,Furniture,13,375000 MMK,10,1950,,In-Store,Cash,VIP,2,7
+5/29/2022,Mouse,Accessories,24,62500 MMK,10,600,,Online,Cash,VIP,4,3
+5/30/2022,Headphones,Accessories,3,125000 MMK,0,150,Mandalay,Agent,Cash,VIP,5,2
+5/31/2022,Desk,Furniture,18,750000 MMK,0,5400,Naypyidaw,In-Store,Cash,Wholesale,,3
+6/1/2022,Mobile Phone,Electronics,22,1250000 MMK,10,11000,Bago,Agent,Cash,,4,-1
+6/2/2022,Monitor,Electronics,24,625000 MMK,15,6000,Bago,Online,,Wholesale,,7
+6/3/2022,Keyboard,Accessories,7,100000 MMK,5,280,Mandalay,Online,Credit Card,Wholesale,4,2
+6/4/2022,Laptop,Electronics,14,2000000 MMK,10,11200,,Agent,,,3,1
+6/5/2022,Mouse,Accessories,23,62500 MMK,0,575,Yangon,Online,,Retail,4,
+6/6/2022,Monitor,Electronics,-2,625000 MMK,10,,Naypyidaw,,Credit Card,Wholesale,,7
+6/7/2022,Mobile Phone,Electronics,23,1250000 MMK,10,11500,Bago,In-Store,Mobile Pay,Retail,1,1
+6/8/2022,Laptop,Electronics,-2,2000000 MMK,10,,Naypyidaw,,Credit Card,Wholesale,,-1
+6/9/2022,Office Chair,Furniture,-2,375000 MMK,,,,Online,Cash,Wholesale,1,2
+6/10/2022,Desk,Furniture,10,750000 MMK,0,3000,Yangon,,Credit Card,Wholesale,,5
+6/11/2022,Mobile Phone,Electronics,22,1250000 MMK,15,11000,Bago,Online,,Wholesale,3,5
+6/12/2022,Mouse,Accessories,10,62500 MMK,,250,,Online,Credit Card,,5,3
+6/13/2022,Laptop,Electronics,21,2000000 MMK,0,16800,Bago,Online,Mobile Pay,VIP,3,1
+6/14/2022,Mobile Phone,Electronics,6,1250000 MMK,,3000,Yangon,,Cash,Wholesale,,5
+6/15/2022,Headphones,Accessories,3,125000 MMK,,150,Naypyidaw,Agent,Credit Card,Retail,2,3
+6/16/2022,Laptop,Electronics,21,2000000 MMK,10,16800,Naypyidaw,Agent,,Wholesale,4,1
+6/17/2022,Laptop,Electronics,6,2000000 MMK,5,4800,Naypyidaw,,Credit Card,Wholesale,,7
+6/18/2022,Keyboard,Accessories,5,100000 MMK,5,200,Bago,Agent,Mobile Pay,,4,7
+6/19/2022,Desk,Furniture,12,750000 MMK,5,3600,Mandalay,Online,Cash,VIP,1,-1
+6/20/2022,Keyboard,Accessories,2,100000 MMK,,80,Naypyidaw,In-Store,Credit Card,Wholesale,3,2
+6/21/2022,Mouse,Accessories,1,62500 MMK,5,25,Yangon,In-Store,Cash,Wholesale,4,3
+6/22/2022,Headphones,Accessories,16,125000 MMK,,800,Mandalay,In-Store,Mobile Pay,Retail,5,1
+6/23/2022,Laptop,Electronics,18,2000000 MMK,15,14400,Naypyidaw,Online,Mobile Pay,,4,1
+6/24/2022,Desk,Furniture,5,750000 MMK,10,1500,Mandalay,Agent,Credit Card,VIP,,1
+6/25/2022,Headphones,Accessories,24,125000 MMK,0,1200,Naypyidaw,,Cash,,4,3
+6/26/2022,Mobile Phone,Electronics,13,1250000 MMK,5,6500,Yangon,,Mobile Pay,,5,1
+6/27/2022,Desk,Furniture,2,750000 MMK,10,600,Yangon,Online,Mobile Pay,Wholesale,5,
+6/28/2022,Desk,Furniture,11,750000 MMK,10,3300,,Agent,Mobile Pay,,,1
+6/29/2022,Desk,Furniture,1,750000 MMK,5,300,Bago,In-Store,Credit Card,Retail,3,2
+6/30/2022,Mobile Phone,Electronics,22,1250000 MMK,15,11000,Mandalay,Agent,,Retail,3,1
+7/1/2022,Monitor,Electronics,-2,625000 MMK,15,,Mandalay,Online,Credit Card,Retail,4,2
+7/2/2022,Office Chair,Furniture,9,375000 MMK,15,1350,Bago,,Credit Card,VIP,2,5
+7/3/2022,Office Chair,Furniture,7,375000 MMK,5,1050,Bago,In-Store,Credit Card,Wholesale,,2
+7/4/2022,Monitor,Electronics,17,625000 MMK,0,4250,Yangon,,Cash,VIP,3,2
+7/5/2022,Monitor,Electronics,17,625000 MMK,0,4250,Mandalay,Online,Credit Card,,1,5
+7/6/2022,Keyboard,Accessories,-1,100000 MMK,15,,Mandalay,Agent,Credit Card,VIP,,5
+7/7/2022,Headphones,Accessories,19,125000 MMK,10,950,Yangon,Online,Credit Card,VIP,4,2
+7/8/2022,Mouse,Accessories,21,62500 MMK,15,525,,,Cash,VIP,4,1
+7/9/2022,Monitor,Electronics,13,625000 MMK,10,3250,,In-Store,Mobile Pay,,4,7
+7/10/2022,Headphones,Accessories,14,125000 MMK,15,700,Naypyidaw,Agent,Cash,Wholesale,3,3
+7/11/2022,Desk,Furniture,16,750000 MMK,10,4800,Mandalay,,,Retail,,2
+7/12/2022,Office Chair,Furniture,-1,375000 MMK,15,,Naypyidaw,Agent,,,,1
+7/13/2022,Mouse,Accessories,16,62500 MMK,10,400,,Agent,,Wholesale,2,5
+7/14/2022,Mouse,Accessories,7,62500 MMK,5,175,Naypyidaw,Agent,Mobile Pay,,3,7
+7/15/2022,Keyboard,Accessories,2,100000 MMK,0,80,Mandalay,Online,Credit Card,Wholesale,5,1
+7/16/2022,Monitor,Electronics,22,625000 MMK,5,5500,Bago,,Mobile Pay,,3,1
+7/17/2022,Headphones,Accessories,23,125000 MMK,0,1150,Naypyidaw,Agent,Credit Card,Retail,3,7
+7/18/2022,Headphones,Accessories,6,125000 MMK,10,300,Bago,In-Store,,,4,3
+7/19/2022,Monitor,Electronics,4,625000 MMK,,1000,Naypyidaw,In-Store,Cash,,,-1
+7/20/2022,Laptop,Electronics,14,2000000 MMK,10,11200,Yangon,Online,Credit Card,VIP,4,
+7/21/2022,Mobile Phone,Electronics,4,1250000 MMK,,2000,Yangon,,Credit Card,,2,7
+7/22/2022,Office Chair,Furniture,14,375000 MMK,,2100,Naypyidaw,Agent,Mobile Pay,,4,7
+7/23/2022,Laptop,Electronics,15,2000000 MMK,10,12000,Bago,Agent,Credit Card,VIP,4,1
+7/24/2022,Mobile Phone,Electronics,6,1250000 MMK,0,3000,Yangon,Agent,Credit Card,,3,5
+7/25/2022,Mouse,Accessories,6,62500 MMK,0,150,Mandalay,Agent,Mobile Pay,Retail,2,1
+7/26/2022,Office Chair,Furniture,17,375000 MMK,,2550,Mandalay,In-Store,Cash,Retail,3,-1
+7/27/2022,Desk,Furniture,-2,750000 MMK,0,,Yangon,,,Retail,,5
+7/28/2022,Laptop,Electronics,23,2000000 MMK,,18400,Naypyidaw,Online,Credit Card,Wholesale,3,5
+7/29/2022,Laptop,Electronics,1,2000000 MMK,0,800,Yangon,Agent,,Wholesale,4,-1
+7/30/2022,Headphones,Accessories,15,125000 MMK,5,750,Naypyidaw,,,Retail,5,2
+7/31/2022,Office Chair,Furniture,24,375000 MMK,,3600,Bago,In-Store,Cash,,,
+8/1/2022,Mouse,Accessories,10,62500 MMK,5,250,Mandalay,Agent,Credit Card,,5,5
+8/2/2022,Office Chair,Furniture,2,375000 MMK,5,300,Mandalay,Online,Credit Card,Retail,5,
+8/3/2022,Headphones,Accessories,0,125000 MMK,15,,Yangon,In-Store,,,3,1
+8/4/2022,Office Chair,Furniture,-1,375000 MMK,0,,Yangon,In-Store,,VIP,2,3
+8/5/2022,Keyboard,Accessories,10,100000 MMK,10,400,Mandalay,Online,Credit Card,Wholesale,2,3
+8/6/2022,Laptop,Electronics,6,2000000 MMK,5,4800,,,Cash,VIP,5,7
+8/7/2022,Laptop,Electronics,-1,2000000 MMK,,,Yangon,,Mobile Pay,VIP,3,-1
+8/8/2022,Mouse,Accessories,15,62500 MMK,0,375,,Online,Credit Card,VIP,1,2
+8/9/2022,Mouse,Accessories,21,62500 MMK,5,525,,,Mobile Pay,VIP,3,-1
+8/10/2022,Office Chair,Furniture,5,375000 MMK,15,750,Bago,Online,Cash,Retail,,5
+8/11/2022,Office Chair,Furniture,20,375000 MMK,5,3000,Yangon,In-Store,Mobile Pay,Retail,4,1
+8/12/2022,Mouse,Accessories,24,62500 MMK,5,600,Yangon,Online,Cash,Wholesale,,1
+8/13/2022,Keyboard,Accessories,20,100000 MMK,10,800,Naypyidaw,Online,Cash,Wholesale,3,3
+8/14/2022,Keyboard,Accessories,2,100000 MMK,10,80,,Agent,Credit Card,Wholesale,2,2
+8/15/2022,Desk,Furniture,8,750000 MMK,,2400,,Agent,Mobile Pay,VIP,1,1
+8/16/2022,Mouse,Accessories,17,62500 MMK,5,425,Mandalay,,Credit Card,VIP,4,7
+8/17/2022,Desk,Furniture,22,750000 MMK,15,6600,Naypyidaw,Online,,Wholesale,4,5
+8/18/2022,Mobile Phone,Electronics,21,1250000 MMK,15,10500,Bago,,Mobile Pay,,2,1
+8/19/2022,Headphones,Accessories,19,125000 MMK,,950,Mandalay,Online,Mobile Pay,VIP,,5
+8/20/2022,Monitor,Electronics,7,625000 MMK,0,1750,Bago,,Mobile Pay,Retail,2,1
+8/21/2022,Desk,Furniture,6,750000 MMK,,1800,Yangon,Online,Cash,,4,5
+8/22/2022,Mouse,Accessories,2,62500 MMK,5,50,Mandalay,,Credit Card,Retail,2,7
+8/23/2022,Desk,Furniture,12,750000 MMK,10,3600,Naypyidaw,In-Store,,Retail,5,3
+8/24/2022,Office Chair,Furniture,15,375000 MMK,15,2250,Naypyidaw,,Credit Card,Wholesale,3,5
+8/25/2022,Monitor,Electronics,7,625000 MMK,5,1750,Naypyidaw,In-Store,Mobile Pay,VIP,4,
+8/26/2022,Mobile Phone,Electronics,5,1250000 MMK,5,2500,Naypyidaw,,Mobile Pay,VIP,5,
+8/27/2022,Office Chair,Furniture,23,375000 MMK,5,3450,Bago,Online,,,,-1
+8/28/2022,Desk,Furniture,18,750000 MMK,5,5400,Naypyidaw,Agent,Credit Card,Retail,2,2
+8/29/2022,Mouse,Accessories,6,62500 MMK,,150,Bago,In-Store,Credit Card,Wholesale,5,2
+8/30/2022,Mobile Phone,Electronics,-2,1250000 MMK,0,,,In-Store,Credit Card,VIP,2,
+8/31/2022,Office Chair,Furniture,23,375000 MMK,15,3450,,,Cash,,5,-1
+9/1/2022,Laptop,Electronics,15,2000000 MMK,0,12000,Mandalay,,Mobile Pay,VIP,1,-1
+9/2/2022,Keyboard,Accessories,17,100000 MMK,10,680,Yangon,,Mobile Pay,VIP,4,
+9/3/2022,Monitor,Electronics,12,625000 MMK,10,3000,Naypyidaw,,Cash,,3,2
+9/4/2022,Office Chair,Furniture,7,375000 MMK,10,1050,Yangon,,Cash,,4,-1
+9/5/2022,Headphones,Accessories,4,125000 MMK,5,200,Yangon,In-Store,Mobile Pay,VIP,5,3
+9/6/2022,Desk,Furniture,7,750000 MMK,10,2100,Mandalay,Online,,Wholesale,2,1
+9/7/2022,Monitor,Electronics,17,625000 MMK,10,4250,Mandalay,Online,,VIP,,5
+9/8/2022,Mobile Phone,Electronics,2,1250000 MMK,0,1000,Bago,Agent,Mobile Pay,VIP,1,
+9/9/2022,Laptop,Electronics,16,2000000 MMK,15,12800,Naypyidaw,,Cash,Retail,1,5
+9/10/2022,Monitor,Electronics,6,625000 MMK,,1500,Mandalay,Online,Credit Card,VIP,1,1
+9/11/2022,Keyboard,Accessories,15,100000 MMK,,600,Yangon,Online,Mobile Pay,Retail,1,1
+9/12/2022,Keyboard,Accessories,7,100000 MMK,0,280,Yangon,,Mobile Pay,Retail,1,1
+9/13/2022,Mouse,Accessories,18,62500 MMK,,450,Yangon,Online,Cash,,,2
+9/14/2022,Headphones,Accessories,9,125000 MMK,10,450,Mandalay,Agent,Mobile Pay,Wholesale,1,1
+9/15/2022,Desk,Furniture,3,750000 MMK,5,900,Bago,In-Store,,VIP,,5
+9/16/2022,Office Chair,Furniture,23,375000 MMK,10,3450,,In-Store,,,5,5
+9/17/2022,Keyboard,Accessories,15,100000 MMK,,600,,In-Store,Cash,,5,5
+9/18/2022,Office Chair,Furniture,6,375000 MMK,,900,,Online,,Retail,3,1
+9/19/2022,Monitor,Electronics,4,625000 MMK,15,1000,Naypyidaw,Agent,,Wholesale,2,3
+9/20/2022,Keyboard,Accessories,11,100000 MMK,10,440,Bago,In-Store,Cash,,5,5
+9/21/2022,Headphones,Accessories,12,125000 MMK,,600,Yangon,In-Store,Cash,VIP,,-1
+9/22/2022,Desk,Furniture,8,750000 MMK,5,2400,Bago,In-Store,Credit Card,Wholesale,,7
+9/23/2022,Mobile Phone,Electronics,18,1250000 MMK,0,9000,Yangon,Online,Mobile Pay,Wholesale,5,-1
+9/24/2022,Mouse,Accessories,5,62500 MMK,15,125,Bago,In-Store,,,4,1
+9/25/2022,Keyboard,Accessories,20,100000 MMK,5,800,Bago,,Credit Card,VIP,3,2
+9/26/2022,Mobile Phone,Electronics,19,1250000 MMK,15,9500,Naypyidaw,Online,Cash,Retail,1,1
+9/27/2022,Mouse,Accessories,8,62500 MMK,5,200,Mandalay,In-Store,,,4,1
+9/28/2022,Mouse,Accessories,11,62500 MMK,5,275,Mandalay,In-Store,Cash,Wholesale,1,1
+9/29/2022,Office Chair,Furniture,10,375000 MMK,10,1500,Mandalay,Online,Cash,Wholesale,1,
+9/30/2022,Office Chair,Furniture,6,375000 MMK,,900,Naypyidaw,Agent,,VIP,2,5
+10/1/2022,Office Chair,Furniture,0,375000 MMK,,,Yangon,,Cash,Wholesale,3,7
+10/2/2022,Headphones,Accessories,3,125000 MMK,,150,Naypyidaw,In-Store,Mobile Pay,Retail,5,2
+10/3/2022,Monitor,Electronics,10,625000 MMK,15,2500,Bago,Online,,,4,-1
+10/4/2022,Laptop,Electronics,19,2000000 MMK,10,15200,Naypyidaw,In-Store,Credit Card,VIP,2,2
+10/5/2022,Office Chair,Furniture,10,375000 MMK,0,1500,Mandalay,In-Store,Credit Card,,2,-1
+10/6/2022,Headphones,Accessories,17,125000 MMK,,850,Naypyidaw,Online,Credit Card,Wholesale,5,3
+10/7/2022,Headphones,Accessories,-2,125000 MMK,5,,Bago,Agent,Mobile Pay,,1,-1
+10/8/2022,Laptop,Electronics,9,2000000 MMK,0,7200,,,Cash,VIP,3,
+10/9/2022,Mobile Phone,Electronics,8,1250000 MMK,10,4000,,In-Store,,VIP,1,3
+"Monday, October 10, 2022",Keyboard,Accessories,7,100000 MMK,0,280,Naypyidaw,,Credit Card,Retail,2,-1
+10/11/2022,Mouse,Accessories,20,62500 MMK,10,500,,Agent,Cash,Retail,5,7
+10/12/2022,Mouse,Accessories,3,62500 MMK,,75,Mandalay,Agent,Mobile Pay,Retail,,1
+10/13/2022,Laptop,Electronics,15,2000000 MMK,0,12000,,Online,,Retail,4,3
+10/14/2022,Keyboard,Accessories,4,100000 MMK,,160,Bago,Online,Credit Card,,,2
+10/15/2022,Monitor,Electronics,6,625000 MMK,5,1500,Bago,,,Wholesale,3,7
+10/16/2022,Desk,Furniture,11,750000 MMK,10,3300,Bago,Agent,Credit Card,,3,
+10/17/2022,Mouse,Accessories,18,62500 MMK,0,450,,,Credit Card,Wholesale,4,1
+10/18/2022,Mouse,Accessories,6,62500 MMK,,150,Mandalay,In-Store,,Wholesale,3,5
+10/19/2022,Mobile Phone,Electronics,6,1250000 MMK,10,3000,Yangon,Agent,Mobile Pay,Retail,5,2
+10/20/2022,Monitor,Electronics,2,625000 MMK,,500,Mandalay,Online,Mobile Pay,Wholesale,2,-1
+10/21/2022,Mouse,Accessories,20,62500 MMK,,500,Yangon,Online,,Wholesale,2,
+10/22/2022,Keyboard,Accessories,23,100000 MMK,10,920,Mandalay,,,Retail,,2
+10/23/2022,Mouse,Accessories,9,62500 MMK,5,225,Mandalay,Agent,Cash,Wholesale,5,5
+10/24/2022,Mobile Phone,Electronics,2,1250000 MMK,15,1000,Mandalay,Online,Credit Card,,4,
+10/25/2022,Laptop,Electronics,12,2000000 MMK,,9600,Mandalay,Agent,,,,7
+10/26/2022,Mobile Phone,Electronics,18,1250000 MMK,15,9000,Naypyidaw,Agent,,,3,7
+10/27/2022,Desk,Furniture,19,750000 MMK,10,5700,Mandalay,,Mobile Pay,Retail,1,1
+10/28/2022,Mouse,Accessories,15,62500 MMK,,375,,Online,,Wholesale,,
+10/29/2022,Laptop,Electronics,23,2000000 MMK,5,18400,Naypyidaw,Online,Credit Card,,4,-1
+10/30/2022,Monitor,Electronics,21,625000 MMK,15,5250,Naypyidaw,Online,Cash,Wholesale,2,5
+10/31/2022,Keyboard,Accessories,11,100000 MMK,10,440,Mandalay,Agent,Mobile Pay,Retail,5,-1
+11/1/2022,Mouse,Accessories,17,62500 MMK,0,425,Bago,,,,3,2
+11/2/2022,Desk,Furniture,11,750000 MMK,15,3300,,Online,Credit Card,Retail,1,3
+11/3/2022,Mobile Phone,Electronics,9,1250000 MMK,5,4500,,Agent,Mobile Pay,VIP,2,
+11/4/2022,Monitor,Electronics,8,625000 MMK,0,2000,Naypyidaw,In-Store,Cash,VIP,1,
+11/5/2022,Keyboard,Accessories,24,100000 MMK,10,960,Yangon,Agent,Mobile Pay,,2,7
+11/6/2022,Mobile Phone,Electronics,5,1250000 MMK,,2500,Mandalay,Online,,,3,
+11/7/2022,Office Chair,Furniture,-2,375000 MMK,,,Mandalay,,Credit Card,VIP,2,1
+11/8/2022,Desk,Furniture,24,750000 MMK,5,7200,Mandalay,In-Store,Credit Card,,3,7
+11/9/2022,Monitor,Electronics,12,625000 MMK,,3000,Mandalay,Agent,Mobile Pay,Wholesale,1,
+11/10/2022,Laptop,Electronics,0,2000000 MMK,10,,Yangon,Agent,,Retail,3,-1
+11/11/2022,Mouse,Accessories,11,62500 MMK,,275,Yangon,Agent,Mobile Pay,,3,
+11/12/2022,Mouse,Accessories,3,62500 MMK,,75,,,Mobile Pay,,2,1
+11/13/2022,Mouse,Accessories,16,62500 MMK,5,400,Bago,Agent,Cash,Retail,,2
+11/14/2022,Headphones,Accessories,22,125000 MMK,0,1100,Yangon,Agent,Cash,,2,
+11/15/2022,Keyboard,Accessories,10,100000 MMK,,400,Naypyidaw,,Credit Card,Wholesale,4,1
+11/16/2022,Headphones,Accessories,4,125000 MMK,,200,Yangon,,Cash,VIP,4,7
+11/17/2022,Desk,Furniture,14,750000 MMK,0,4200,Mandalay,,Mobile Pay,Wholesale,2,2
+11/18/2022,Desk,Furniture,8,750000 MMK,15,2400,Yangon,Agent,Cash,,2,1
+11/19/2022,Headphones,Accessories,13,125000 MMK,15,650,Yangon,Agent,Cash,Wholesale,1,2
+11/20/2022,Laptop,Electronics,24,2000000 MMK,10,19200,Bago,Agent,Cash,Retail,5,1
+11/21/2022,Desk,Furniture,4,750000 MMK,10,1200,,Online,,Retail,1,1
+11/22/2022,Desk,Furniture,19,750000 MMK,5,5700,Mandalay,In-Store,Credit Card,,4,5
+11/23/2022,Mobile Phone,Electronics,10,1250000 MMK,0,5000,Bago,In-Store,Credit Card,Wholesale,4,5
+11/24/2022,Keyboard,Accessories,2,100000 MMK,15,80,Mandalay,Online,Credit Card,Retail,,-1
+11/25/2022,Mouse,Accessories,5,62500 MMK,5,125,Naypyidaw,Online,,,1,
+11/26/2022,Office Chair,Furniture,17,375000 MMK,5,2550,Mandalay,,Mobile Pay,VIP,3,7
+11/27/2022,Desk,Furniture,17,750000 MMK,10,5100,Bago,Agent,Mobile Pay,Retail,4,-1
+11/28/2022,Laptop,Electronics,4,2000000 MMK,15,3200,Mandalay,Agent,Cash,Retail,2,
+11/29/2022,Mobile Phone,Electronics,6,1250000 MMK,5,3000,Yangon,Agent,,VIP,,-1
+11/30/2022,Desk,Furniture,9,750000 MMK,0,2700,,,Credit Card,,5,2
+12/1/2022,Laptop,Electronics,21,2000000 MMK,15,16800,Yangon,Online,Mobile Pay,Wholesale,1,5
+12/2/2022,Office Chair,Furniture,7,375000 MMK,15,1050,Naypyidaw,Agent,Cash,Wholesale,3,1
+12/3/2022,Mouse,Accessories,15,62500 MMK,,375,Yangon,Online,Mobile Pay,,,2
+12/4/2022,Monitor,Electronics,-1,625000 MMK,15,,Naypyidaw,Online,Cash,Wholesale,,-1
+12/5/2022,Mobile Phone,Electronics,22,1250000 MMK,15,11000,Yangon,Agent,Mobile Pay,,3,3
+12/6/2022,Monitor,Electronics,8,625000 MMK,5,2000,Mandalay,In-Store,Credit Card,Retail,1,5
+12/7/2022,Laptop,Electronics,1,2000000 MMK,10,800,Yangon,In-Store,,,3,1
+12/8/2022,Monitor,Electronics,-1,625000 MMK,10,,Bago,,,,1,7
+12/9/2022,Monitor,Electronics,20,625000 MMK,0,5000,Yangon,Agent,,Retail,5,1
+12/10/2022,Headphones,Accessories,1,125000 MMK,,50,Naypyidaw,In-Store,Credit Card,,3,
+12/11/2022,Headphones,Accessories,24,125000 MMK,0,1200,Naypyidaw,Agent,Credit Card,,,5
+12/12/2022,Keyboard,Accessories,9,100000 MMK,0,360,Yangon,,Mobile Pay,,,-1
+12/13/2022,Mobile Phone,Electronics,8,1250000 MMK,10,4000,,In-Store,Credit Card,Retail,5,1
+12/14/2022,Keyboard,Accessories,7,100000 MMK,10,280,Bago,Agent,Mobile Pay,Wholesale,,3
+12/15/2022,Office Chair,Furniture,2,375000 MMK,,300,Bago,,Credit Card,Wholesale,2,5
+12/16/2022,Mouse,Accessories,10,62500 MMK,5,250,Bago,Online,Mobile Pay,VIP,3,3
+12/17/2022,Mobile Phone,Electronics,6,1250000 MMK,15,3000,Naypyidaw,,,Retail,3,
+12/18/2022,Keyboard,Accessories,12,100000 MMK,15,480,,In-Store,Cash,Retail,3,7
+12/19/2022,Monitor,Electronics,1,625000 MMK,5,250,Naypyidaw,In-Store,Mobile Pay,Retail,4,
+12/20/2022,Mobile Phone,Electronics,18,1250000 MMK,,9000,Yangon,Agent,Credit Card,Wholesale,5,
+12/21/2022,Headphones,Accessories,24,125000 MMK,,1200,Bago,,Cash,Retail,2,7
+12/22/2022,Keyboard,Accessories,14,100000 MMK,5,560,,,,,4,7
+12/23/2022,Monitor,Electronics,12,625000 MMK,,3000,,Agent,Cash,Retail,2,5
+12/24/2022,Office Chair,Furniture,8,375000 MMK,0,1200,Mandalay,In-Store,Cash,VIP,2,1
+12/25/2022,Monitor,Electronics,3,625000 MMK,,750,Mandalay,Agent,Credit Card,,5,-1
+12/26/2022,Office Chair,Furniture,2,375000 MMK,5,300,Bago,Agent,Credit Card,VIP,2,1
+12/27/2022,Mobile Phone,Electronics,15,1250000 MMK,,7500,,,Mobile Pay,VIP,5,5
+12/28/2022,Monitor,Electronics,8,625000 MMK,0,2000,Mandalay,In-Store,Mobile Pay,Wholesale,,3
+12/29/2022,Desk,Furniture,2,750000 MMK,0,600,Bago,Online,Credit Card,Wholesale,1,2
+12/30/2022,Mouse,Accessories,20,62500 MMK,0,500,Yangon,Agent,Mobile Pay,,4,2
+12/31/2022,Laptop,Electronics,21,2000000 MMK,10,16800,Yangon,,Mobile Pay,,2,2
+1/1/2023,Laptop,Electronics,19,2000000 MMK,15,15200,Naypyidaw,Agent,Mobile Pay,,4,1
+1/2/2023,Monitor,Electronics,19,625000 MMK,10,4750,,Agent,,Wholesale,2,7
+1/3/2023,Office Chair,Furniture,4,375000 MMK,5,600,Yangon,,Mobile Pay,VIP,2,3
+1/4/2023,Desk,Furniture,23,750000 MMK,5,6900,Mandalay,Online,,Wholesale,3,
+1/5/2023,Desk,Furniture,13,750000 MMK,15,3900,,In-Store,Cash,,4,
+1/6/2023,Keyboard,Accessories,18,100000 MMK,15,720,Naypyidaw,In-Store,,VIP,5,5
+1/7/2023,Mouse,Accessories,5,62500 MMK,10,125,Naypyidaw,Online,,Retail,,-1
+1/8/2023,Desk,Furniture,5,750000 MMK,,1500,Yangon,Online,Mobile Pay,VIP,4,-1
+1/9/2023,Laptop,Electronics,-2,2000000 MMK,10,,,In-Store,Mobile Pay,Wholesale,2,1
+1/10/2023,Desk,Furniture,21,750000 MMK,5,6300,Mandalay,Online,Mobile Pay,Retail,2,3
+1/11/2023,Mouse,Accessories,5,62500 MMK,,125,Yangon,Online,Credit Card,Retail,3,
+1/12/2023,Laptop,Electronics,-2,2000000 MMK,0,,Bago,In-Store,Mobile Pay,Wholesale,,-1
+1/13/2023,Headphones,Accessories,19,125000 MMK,0,950,Naypyidaw,,,VIP,3,5
+1/14/2023,Mobile Phone,Electronics,-2,1250000 MMK,5,,Mandalay,,Cash,Wholesale,1,
+1/15/2023,Keyboard,Accessories,21,100000 MMK,10,840,Naypyidaw,In-Store,Cash,Wholesale,3,5
+1/16/2023,Mouse,Accessories,13,62500 MMK,15,325,Mandalay,Online,Credit Card,VIP,4,1
+1/17/2023,Headphones,Accessories,20,125000 MMK,0,1000,Yangon,In-Store,Cash,,,-1
+1/18/2023,Desk,Furniture,16,750000 MMK,10,4800,Naypyidaw,In-Store,Mobile Pay,,5,7
+1/19/2023,Headphones,Accessories,8,125000 MMK,10,400,Naypyidaw,Agent,,Retail,3,5
+1/20/2023,Monitor,Electronics,15,625000 MMK,15,3750,Mandalay,In-Store,,,,
+1/21/2023,Mouse,Accessories,4,62500 MMK,10,100,,Online,Cash,Wholesale,2,
+1/22/2023,Mobile Phone,Electronics,17,1250000 MMK,15,8500,Mandalay,Online,,,3,-1
+1/23/2023,Monitor,Electronics,2,625000 MMK,10,500,Mandalay,Agent,Credit Card,Wholesale,5,7
+1/24/2023,Headphones,Accessories,5,125000 MMK,0,250,Naypyidaw,,Credit Card,VIP,4,1
+1/25/2023,Office Chair,Furniture,12,375000 MMK,,1800,Bago,In-Store,,VIP,2,5
+1/26/2023,Desk,Furniture,21,750000 MMK,10,6300,Mandalay,In-Store,Mobile Pay,,1,
+1/27/2023,Office Chair,Furniture,14,375000 MMK,10,2100,,In-Store,Credit Card,Wholesale,2,7
+1/28/2023,Office Chair,Furniture,18,375000 MMK,,2700,,Agent,Cash,Retail,5,
+1/29/2023,Monitor,Electronics,20,625000 MMK,10,5000,Yangon,Agent,Cash,Retail,4,7
+1/30/2023,Mobile Phone,Electronics,13,1250000 MMK,10,6500,Bago,In-Store,,Wholesale,2,5
+1/31/2023,Office Chair,Furniture,16,375000 MMK,,2400,Yangon,Online,,,4,7
+2/1/2023,Desk,Furniture,14,750000 MMK,,4200,Yangon,Agent,,Wholesale,,2
+2/2/2023,Keyboard,Accessories,15,100000 MMK,15,600,Naypyidaw,Agent,,VIP,2,2
+2/3/2023,Office Chair,Furniture,13,375000 MMK,15,1950,Mandalay,,Cash,Wholesale,4,2
+2/4/2023,Monitor,Electronics,6,625000 MMK,15,1500,Bago,Agent,Mobile Pay,Wholesale,2,3
+2/5/2023,Office Chair,Furniture,9,375000 MMK,15,1350,Naypyidaw,Agent,Mobile Pay,Wholesale,2,3
+2/6/2023,Headphones,Accessories,6,125000 MMK,,300,Mandalay,In-Store,Cash,,,2
+2/7/2023,Monitor,Electronics,20,625000 MMK,10,5000,Mandalay,,,Wholesale,4,1
+2/8/2023,Mouse,Accessories,11,62500 MMK,5,275,Bago,,Mobile Pay,VIP,3,7
+2/9/2023,Laptop,Electronics,9,2000000 MMK,10,7200,Mandalay,In-Store,,VIP,5,2
+2/10/2023,Laptop,Electronics,3,2000000 MMK,,2400,Bago,,Credit Card,,5,-1
+2/11/2023,Laptop,Electronics,10,2000000 MMK,15,8000,Yangon,,,,5,3
+2/12/2023,Headphones,Accessories,21,125000 MMK,15,1050,Bago,Online,Credit Card,Retail,4,-1
+2/13/2023,Mobile Phone,Electronics,2,1250000 MMK,5,1000,Mandalay,In-Store,,Wholesale,4,-1
+2/14/2023,Monitor,Electronics,20,625000 MMK,0,5000,Naypyidaw,,Cash,VIP,5,-1
+2/15/2023,Headphones,Accessories,8,125000 MMK,10,400,,In-Store,Credit Card,Wholesale,3,
+2/16/2023,Headphones,Accessories,20,125000 MMK,0,1000,,,Cash,Wholesale,,1
+2/17/2023,Keyboard,Accessories,7,100000 MMK,10,280,Bago,,Credit Card,Retail,,2
+2/18/2023,Monitor,Electronics,8,625000 MMK,,2000,Naypyidaw,Agent,Credit Card,Retail,5,2
+2/19/2023,Laptop,Electronics,1,2000000 MMK,10,800,Naypyidaw,In-Store,Cash,VIP,,2
+2/20/2023,Laptop,Electronics,1,2000000 MMK,0,800,,In-Store,Credit Card,Retail,4,
+2/21/2023,Mouse,Accessories,5,62500 MMK,0,125,,Online,Cash,Retail,,7
+2/22/2023,Laptop,Electronics,18,2000000 MMK,5,14400,Naypyidaw,Agent,Credit Card,Retail,2,5
+2/23/2023,Monitor,Electronics,12,625000 MMK,5,3000,Bago,In-Store,Credit Card,Retail,5,5
+2/24/2023,Monitor,Electronics,20,625000 MMK,10,5000,Yangon,Online,Credit Card,VIP,,2
+2/25/2023,Keyboard,Accessories,20,100000 MMK,5,800,Mandalay,In-Store,Cash,Retail,4,2
+2/26/2023,Desk,Furniture,18,750000 MMK,15,5400,Yangon,Agent,Mobile Pay,Wholesale,4,5
+2/27/2023,Laptop,Electronics,20,2000000 MMK,,16000,,,Credit Card,,1,-1
+2/28/2023,Keyboard,Accessories,19,100000 MMK,10,760,Mandalay,Online,Cash,Retail,2,-1
+3/1/2023,Mobile Phone,Electronics,21,1250000 MMK,15,10500,Naypyidaw,In-Store,Cash,,1,7
+3/2/2023,Mouse,Accessories,8,62500 MMK,5,200,Naypyidaw,,Credit Card,Wholesale,3,-1
+3/3/2023,Office Chair,Furniture,22,375000 MMK,0,3300,Yangon,Agent,Credit Card,Retail,4,1
+3/4/2023,Mobile Phone,Electronics,8,1250000 MMK,5,4000,,,,VIP,1,-1
+3/5/2023,Mouse,Accessories,14,62500 MMK,5,350,,,Cash,Retail,1,5
+3/6/2023,Keyboard,Accessories,-2,100000 MMK,15,,,Agent,Cash,VIP,5,3
+3/7/2023,Keyboard,Accessories,3,100000 MMK,15,120,,,Mobile Pay,,1,3
+3/8/2023,Laptop,Electronics,4,2000000 MMK,0,3200,Naypyidaw,,Cash,Retail,,
+3/9/2023,Mobile Phone,Electronics,0,1250000 MMK,15,,Mandalay,Agent,Cash,Wholesale,5,1
+3/10/2023,Headphones,Accessories,-2,125000 MMK,,,Yangon,Agent,Mobile Pay,,4,7
+3/11/2023,Mouse,Accessories,14,62500 MMK,0,350,Bago,Agent,Cash,Retail,3,
+3/12/2023,Headphones,Accessories,17,125000 MMK,,850,Bago,Online,Cash,,3,5
+3/13/2023,Monitor,Electronics,11,625000 MMK,15,2750,Bago,,Credit Card,Wholesale,1,7
+3/14/2023,Mouse,Accessories,6,62500 MMK,,150,Naypyidaw,Agent,Credit Card,,,2
+3/15/2023,Mobile Phone,Electronics,21,1250000 MMK,,10500,Bago,Agent,Credit Card,Wholesale,5,3
+3/16/2023,Laptop,Electronics,21,2000000 MMK,10,16800,,In-Store,Credit Card,VIP,1,2
+3/17/2023,Monitor,Electronics,8,625000 MMK,,2000,Bago,,Cash,Retail,,3
+3/18/2023,Office Chair,Furniture,14,375000 MMK,,2100,Yangon,Agent,Mobile Pay,VIP,3,
+3/19/2023,Mouse,Accessories,21,62500 MMK,10,525,Mandalay,,Mobile Pay,Retail,,1
+3/20/2023,Desk,Furniture,8,750000 MMK,10,2400,Naypyidaw,In-Store,,Retail,1,
+3/21/2023,Headphones,Accessories,17,125000 MMK,5,850,Naypyidaw,Agent,Cash,Wholesale,,
+3/22/2023,Mouse,Accessories,16,62500 MMK,0,400,Bago,Agent,Mobile Pay,VIP,5,3
+3/23/2023,Desk,Furniture,18,750000 MMK,5,5400,Naypyidaw,Online,Mobile Pay,Retail,4,5
+3/24/2023,Mouse,Accessories,1,62500 MMK,10,25,Bago,In-Store,Credit Card,Retail,1,7
+3/25/2023,Office Chair,Furniture,21,375000 MMK,0,3150,Naypyidaw,In-Store,Credit Card,VIP,5,2
+3/26/2023,Keyboard,Accessories,22,100000 MMK,15,880,Bago,Online,Credit Card,Retail,2,3
+3/27/2023,Desk,Furniture,13,750000 MMK,0,3900,Bago,,Cash,VIP,2,-1
+3/28/2023,Laptop,Electronics,0,2000000 MMK,0,,,Online,,Wholesale,5,3
+3/29/2023,Mouse,Accessories,0,62500 MMK,0,,Mandalay,In-Store,,,,3
+3/30/2023,Laptop,Electronics,19,2000000 MMK,5,15200,Yangon,,Cash,Retail,3,2
+3/31/2023,Headphones,Accessories,13,125000 MMK,15,650,Bago,Agent,Mobile Pay,Retail,1,1
+4/1/2023,Office Chair,Furniture,5,375000 MMK,,750,Yangon,Agent,,Wholesale,3,5
+4/2/2023,Desk,Furniture,3,750000 MMK,15,900,Bago,,Cash,,4,5
+4/3/2023,Office Chair,Furniture,16,375000 MMK,,2400,,Agent,Mobile Pay,Retail,,2
+4/4/2023,Keyboard,Accessories,8,100000 MMK,,320,Naypyidaw,Online,Cash,Retail,3,2
+4/5/2023,Desk,Furniture,8,750000 MMK,15,2400,Yangon,In-Store,,,3,7
+4/6/2023,Keyboard,Accessories,22,100000 MMK,15,880,Mandalay,Agent,Mobile Pay,VIP,5,2
+4/7/2023,Desk,Furniture,5,750000 MMK,,1500,,In-Store,Credit Card,,2,1
+4/8/2023,Mobile Phone,Electronics,7,1250000 MMK,15,3500,Yangon,In-Store,Credit Card,VIP,2,7
+4/9/2023,Office Chair,Furniture,19,375000 MMK,15,2850,,In-Store,Mobile Pay,Wholesale,1,7
+4/10/2023,Keyboard,Accessories,10,100000 MMK,15,400,Bago,Agent,Cash,Retail,1,
+4/11/2023,Mobile Phone,Electronics,9,1250000 MMK,0,4500,Bago,Online,Cash,Retail,2,2
+4/12/2023,Keyboard,Accessories,2,100000 MMK,,80,Naypyidaw,Online,Credit Card,,,2
+4/13/2023,Keyboard,Accessories,23,100000 MMK,5,920,Bago,In-Store,,VIP,4,-1
+4/14/2023,Office Chair,Furniture,-2,375000 MMK,10,,,,Mobile Pay,Retail,1,7
+4/15/2023,Keyboard,Accessories,6,100000 MMK,15,240,Naypyidaw,In-Store,Mobile Pay,Wholesale,,
+4/16/2023,Office Chair,Furniture,22,375000 MMK,5,3300,Mandalay,Agent,Cash,VIP,3,2
+4/17/2023,Mobile Phone,Electronics,5,1250000 MMK,5,2500,,,Credit Card,Wholesale,4,5
+4/18/2023,Office Chair,Furniture,20,375000 MMK,,3000,Naypyidaw,Agent,Credit Card,Wholesale,5,7
+4/19/2023,Keyboard,Accessories,1,100000 MMK,,40,Naypyidaw,,Mobile Pay,,1,3
+4/20/2023,Monitor,Electronics,17,625000 MMK,10,4250,Bago,In-Store,Mobile Pay,VIP,,5
+4/21/2023,Monitor,Electronics,7,625000 MMK,,1750,,Online,Credit Card,,1,5
+4/22/2023,Laptop,Electronics,17,2000000 MMK,5,13600,Mandalay,In-Store,Credit Card,VIP,4,7
+4/23/2023,Headphones,Accessories,0,125000 MMK,15,,Naypyidaw,Agent,,Retail,1,7
+4/24/2023,Desk,Furniture,0,750000 MMK,0,,Mandalay,,Mobile Pay,Retail,3,
+4/25/2023,Mobile Phone,Electronics,16,1250000 MMK,,8000,Yangon,Agent,Mobile Pay,VIP,2,7
+4/26/2023,Keyboard,Accessories,22,100000 MMK,15,880,,In-Store,Credit Card,Wholesale,4,3
+4/27/2023,Office Chair,Furniture,13,375000 MMK,15,1950,Mandalay,,,VIP,,
+4/28/2023,Headphones,Accessories,8,125000 MMK,10,400,Yangon,,Mobile Pay,Wholesale,2,3
+4/29/2023,Headphones,Accessories,24,125000 MMK,0,1200,Yangon,,Cash,VIP,4,-1
+4/30/2023,Monitor,Electronics,14,625000 MMK,,3500,Yangon,Online,Mobile Pay,VIP,4,
+5/1/2023,Desk,Furniture,1,750000 MMK,10,300,Naypyidaw,Online,Cash,Retail,,2
+5/2/2023,Laptop,Electronics,24,2000000 MMK,15,19200,Mandalay,,Credit Card,Retail,,3
+5/3/2023,Mouse,Accessories,12,62500 MMK,15,300,Mandalay,,Mobile Pay,VIP,2,3
+5/4/2023,Laptop,Electronics,9,2000000 MMK,5,7200,Mandalay,In-Store,Credit Card,Retail,5,-1
+5/5/2023,Keyboard,Accessories,17,100000 MMK,5,680,Yangon,,Credit Card,Wholesale,4,3
+5/6/2023,Mobile Phone,Electronics,20,1250000 MMK,0,10000,,,Mobile Pay,,,
+5/7/2023,Monitor,Electronics,17,625000 MMK,15,4250,Naypyidaw,Online,Mobile Pay,Retail,5,
+5/8/2023,Mouse,Accessories,13,62500 MMK,10,325,Bago,,Credit Card,,,2
+5/9/2023,Keyboard,Accessories,0,100000 MMK,15,,Bago,In-Store,Mobile Pay,Wholesale,3,5
+5/10/2023,Mobile Phone,Electronics,0,1250000 MMK,10,,Mandalay,In-Store,Mobile Pay,,5,
+5/11/2023,Laptop,Electronics,18,2000000 MMK,5,14400,Yangon,Online,Cash,Wholesale,1,5
+5/12/2023,Keyboard,Accessories,21,100000 MMK,0,840,Yangon,,,Retail,3,
+5/13/2023,Headphones,Accessories,4,125000 MMK,10,200,,Agent,,Retail,3,
+5/14/2023,Office Chair,Furniture,22,375000 MMK,10,3300,,In-Store,Cash,VIP,2,5
+5/15/2023,Headphones,Accessories,15,125000 MMK,0,750,,Agent,,VIP,1,
+5/16/2023,Headphones,Accessories,0,125000 MMK,10,,,Agent,Credit Card,Retail,,3
+5/17/2023,Headphones,Accessories,2,125000 MMK,,100,Naypyidaw,Online,,VIP,3,2
+5/18/2023,Desk,Furniture,5,750000 MMK,5,1500,Bago,Agent,,VIP,2,1
+5/19/2023,Mouse,Accessories,19,62500 MMK,0,475,,Online,,,2,1
+5/20/2023,Headphones,Accessories,18,125000 MMK,0,900,Mandalay,Agent,Cash,,5,7
+5/21/2023,Monitor,Electronics,19,625000 MMK,10,4750,,In-Store,Cash,VIP,1,2
+5/22/2023,Mouse,Accessories,5,62500 MMK,,125,Naypyidaw,,,Wholesale,1,1
+5/23/2023,Desk,Furniture,21,750000 MMK,0,6300,,Agent,Mobile Pay,,3,3
+5/24/2023,Laptop,Electronics,18,2000000 MMK,15,14400,Bago,In-Store,Cash,,1,7
+5/25/2023,Headphones,Accessories,-2,125000 MMK,,,Bago,,Credit Card,,5,7
+5/26/2023,Keyboard,Accessories,24,100000 MMK,10,960,Naypyidaw,,Mobile Pay,Wholesale,4,2
+5/27/2023,Keyboard,Accessories,19,100000 MMK,0,760,Naypyidaw,Agent,Cash,VIP,2,2
+5/28/2023,Office Chair,Furniture,2,375000 MMK,15,300,,In-Store,Credit Card,Retail,,2
+5/29/2023,Mouse,Accessories,6,62500 MMK,10,150,Yangon,Online,Credit Card,VIP,2,2
+5/30/2023,Desk,Furniture,12,750000 MMK,15,3600,Naypyidaw,Online,Credit Card,Retail,,5
+5/31/2023,Desk,Furniture,6,750000 MMK,15,1800,Mandalay,In-Store,Credit Card,,,-1
+6/1/2023,Office Chair,Furniture,8,375000 MMK,15,1200,,,Credit Card,VIP,,2
+6/2/2023,Keyboard,Accessories,0,100000 MMK,15,,,,Credit Card,Wholesale,4,5
+6/3/2023,Keyboard,Accessories,20,100000 MMK,5,800,Yangon,,Credit Card,,1,3
+6/4/2023,Mobile Phone,Electronics,23,1250000 MMK,0,11500,Yangon,,Mobile Pay,,4,
+6/5/2023,Keyboard,Accessories,6,100000 MMK,0,240,,Agent,Cash,Wholesale,3,2
+6/6/2023,Headphones,Accessories,19,125000 MMK,0,950,Bago,,Mobile Pay,VIP,,3
+6/7/2023,Headphones,Accessories,18,125000 MMK,5,900,Bago,Online,,Wholesale,5,-1
+6/8/2023,Desk,Furniture,18,750000 MMK,5,5400,,Online,Credit Card,Wholesale,5,3
+6/9/2023,Keyboard,Accessories,5,100000 MMK,10,200,Naypyidaw,Agent,Mobile Pay,Wholesale,5,2
+6/10/2023,Monitor,Electronics,18,625000 MMK,5,4500,Yangon,,Credit Card,,3,
+6/11/2023,Headphones,Accessories,11,125000 MMK,15,550,Yangon,,Mobile Pay,,3,-1
+6/12/2023,Office Chair,Furniture,10,375000 MMK,15,1500,Naypyidaw,,Credit Card,VIP,5,2
+"Tuesday, June 13, 2023",Keyboard,Accessories,4,100000 MMK,10,160,Mandalay,Agent,Mobile Pay,Retail,3,7
+6/14/2023,Headphones,Accessories,18,125000 MMK,0,900,Mandalay,Agent,Mobile Pay,,3,1
+6/15/2023,Monitor,Electronics,7,625000 MMK,10,1750,Bago,Agent,Mobile Pay,Wholesale,4,
+6/16/2023,Keyboard,Accessories,-2,100000 MMK,0,,Mandalay,Online,,,2,3
+6/17/2023,Desk,Furniture,13,750000 MMK,,3900,Yangon,Agent,Cash,VIP,2,2
+6/18/2023,Desk,Furniture,11,750000 MMK,0,3300,,Agent,Credit Card,VIP,4,1
+6/19/2023,Office Chair,Furniture,4,375000 MMK,15,600,Mandalay,Agent,Cash,,1,2
+6/20/2023,Keyboard,Accessories,23,100000 MMK,0,920,Naypyidaw,Online,Mobile Pay,Retail,4,7
+6/21/2023,Laptop,Electronics,9,2000000 MMK,,7200,Bago,Agent,,VIP,,7
+6/22/2023,Laptop,Electronics,13,2000000 MMK,10,10400,Bago,Online,Mobile Pay,Wholesale,4,3
+6/23/2023,Mobile Phone,Electronics,23,1250000 MMK,10,11500,Bago,,Cash,VIP,1,-1
+6/24/2023,Monitor,Electronics,0,625000 MMK,10,,Mandalay,,Cash,Retail,1,
+6/25/2023,Desk,Furniture,14,750000 MMK,0,4200,Naypyidaw,Agent,Credit Card,Wholesale,2,7
+6/26/2023,Headphones,Accessories,6,125000 MMK,5,300,Mandalay,,,Retail,,2
+6/27/2023,Office Chair,Furniture,24,375000 MMK,0,3600,Yangon,In-Store,,Wholesale,3,1
+6/28/2023,Office Chair,Furniture,8,375000 MMK,,1200,,Online,Cash,Wholesale,5,3
+6/29/2023,Mobile Phone,Electronics,16,1250000 MMK,,8000,,Online,Cash,Retail,2,
+6/30/2023,Desk,Furniture,6,750000 MMK,5,1800,Bago,Online,,,,3
+7/1/2023,Mobile Phone,Electronics,7,1250000 MMK,10,3500,Bago,Online,Cash,VIP,4,1
+7/2/2023,Desk,Furniture,8,750000 MMK,10,2400,Bago,Agent,Mobile Pay,VIP,3,1
+7/3/2023,Keyboard,Accessories,3,100000 MMK,,120,Naypyidaw,In-Store,Mobile Pay,Wholesale,,1
+7/4/2023,Office Chair,Furniture,13,375000 MMK,15,1950,Naypyidaw,Online,Credit Card,Wholesale,2,7
+7/5/2023,Laptop,Electronics,8,2000000 MMK,10,6400,Mandalay,Agent,,Wholesale,2,
+7/6/2023,Headphones,Accessories,6,125000 MMK,15,300,Bago,Online,,Retail,3,-1
+7/7/2023,Headphones,Accessories,9,125000 MMK,10,450,Bago,In-Store,Credit Card,VIP,,-1
+7/8/2023,Mobile Phone,Electronics,7,1250000 MMK,0,3500,Yangon,Online,Cash,Wholesale,3,3
+7/9/2023,Desk,Furniture,16,750000 MMK,10,4800,Bago,In-Store,Mobile Pay,Wholesale,1,1
+7/10/2023,Keyboard,Accessories,13,100000 MMK,15,520,Bago,,Cash,VIP,2,2
+7/11/2023,Desk,Furniture,11,750000 MMK,0,3300,Naypyidaw,Agent,,VIP,,2
+7/12/2023,Mobile Phone,Electronics,21,1250000 MMK,5,10500,,Agent,,,2,5
+7/13/2023,Laptop,Electronics,24,2000000 MMK,,19200,Yangon,In-Store,Credit Card,Retail,3,3
+7/14/2023,Laptop,Electronics,18,2000000 MMK,0,14400,Naypyidaw,,Mobile Pay,VIP,2,
+7/15/2023,Keyboard,Accessories,1,100000 MMK,0,40,Mandalay,Agent,Mobile Pay,Retail,,2
+7/16/2023,Headphones,Accessories,7,125000 MMK,,350,Yangon,,Cash,VIP,,7
+7/17/2023,Laptop,Electronics,22,2000000 MMK,,17600,,,Cash,,2,3
+7/18/2023,Desk,Furniture,17,750000 MMK,5,5100,Bago,Online,Credit Card,,3,3
+7/19/2023,Headphones,Accessories,17,125000 MMK,10,850,Naypyidaw,In-Store,Cash,Wholesale,3,7
+"Thursday, July 20, 2023",Office Chair,Furniture,15,375000 MMK,10,2250,Yangon,Agent,Credit Card,Wholesale,5,1
+7/21/2023,Keyboard,Accessories,13,100000 MMK,15,520,Mandalay,In-Store,Cash,Wholesale,4,1
+7/22/2023,Headphones,Accessories,7,125000 MMK,0,350,Mandalay,,Credit Card,Wholesale,2,1
+7/23/2023,Mouse,Accessories,19,62500 MMK,,475,Mandalay,Online,Credit Card,,5,3
