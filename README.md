@@ -1,0 +1,162 @@
+# 📊 Retail Sales Analysis of an Electronics Store in Myanmar (2020–2023)
+
+A comprehensive data analysis project to evaluate sales performance across categories, regions, customers, and time using Python and Power BI.
+
+---
+
+## 📖 Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools & Technologies](#tools--technologies)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [How to Use](#how-to-use)
+
+---
+
+## 📊 Project Overview
+
+This project analyzes retail sales data from an electronics store in Myanmar between 2020 and 2023.
+
+**Goals:**
+- Identify key business drivers
+- Understand customer behavior
+- Evaluate regional performance
+- Uncover time-based sales patterns
+- Support data-driven decision-making
+
+---
+
+## 🗂️ Data Source
+
+- **Source:** Simulated retail sales dataset
+- **Time Period:** 2020 – 2023
+- **Records:** ~1400+ rows
+
+### Key Variables:
+| Variable | Description |
+|----------|-------------|
+| Date | Transaction date |
+| Product, Category | Product details |
+| Price, Quantity, Discount | Financial metrics |
+| Sales Channel, Payment Method | Transaction details |
+| Customer Type, Customer Rating | Customer info |
+| Region, Delivery Days | Location & logistics |
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category | Tools |
+|----------|-------|
+| **Language** | Python (Pandas, NumPy) |
+| **Visualization** | Matplotlib, Seaborn |
+| **Dashboard** | Power BI |
+| **Database** | MySQL |
+| **Documentation** | Google colab, MS Word |
+
+---
+
+## 🧹 Data Cleaning & Preparation
+
+### Cleaning Steps:
+- ✅ Standardized date format (YYYY-MM-DD)
+- ✅ Removed invalid records (non-positive quantities)
+- ✅ Cleaned Price column (removed currency symbols → numeric)
+- ✅ Filled missing Discount values (group median)
+- ✅ Standardized categorical columns (Region, Sales Channel)
+- ✅ Handled missing values (mode for categorical, median for numerical)
+- ✅ Treated outliers (clipping method)
+
+### Feature Engineering:
+- Gross Sales (MMK) = Price × Quantity
+- Net Sales (MMK) = Gross Sales - Discount
+- Net Sales (USD) = Net Sales (MMK) / Exchange Rate
+
+
+---
+
+## 🔍 Exploratory Data Analysis (EDA)
+
+**Key questions explored:**
+- Sales performance by category?
+- Highest revenue-generating region?
+- Customer type impact on sales?
+- Monthly/yearly sales trends?
+- Popular payment methods & sales channels?
+
+---
+
+## 💡 Key Insights
+
+1. **📱 Electronics dominates** (~72% revenue)
+2. **🔌 Accessories** high volume, low revenue (~5%)
+3. **🏙️ Yangon leads** (~1.5M sales)
+4. **👑 VIP customers** most valuable segment
+5. **📉 2023 decline** observed
+6. **🗺️ Regional contraction** (6→4 regions)
+7. **💳 Mobile Pay** most preferred
+
+---
+
+## 🚀 Recommendations
+
+| Priority | Action | Expected Impact |
+|----------|--------|-----------------|
+| High | Focus Electronics category | Revenue growth |
+| High | Accessories promotions | Margin improvement |
+| Medium | Expand Yangon strategies | Regional balance |
+| Medium | Improve low-performers (Magway, Tanintharyi) | Market expansion |
+| High | VIP loyalty programs | Customer retention |
+| Medium | Time-based promotions | Sales uplift |
+| Low | Promote Mobile Pay | Transaction efficiency |
+| Medium | Strengthen online channels | Channel diversification |
+
+---
+
+## ⚙️ How to Use
+
+### Prerequisites
+- Python 3.8+
+- Power BI Desktop
+- MySQL Server
+
+### Quick Start
+```bash
+# 1. Clone the repository
+https://github.com/Balamurugan-file/Retail_Sales_Analysis
+cd retail-sales-analysis-myanmar
+
+# 2. Install dependencies
+pip install pandas numpy matplotlib seaborn
+
+# 3. Run Google colab
+Retail Sales Analysis of an Electronics Store in Myanmar (2020–2023).ipynb
+
+# 4. Open Power BI Dashboard
+Retail_Sales_Dashboard.pbix
+```
+
+---
+
+## 📈 Dashboards
+
+![Category Performance Analysis]([images/sales_by_category.png](https://github.com/Balamurugan-file/Retail_Sales_Analysis/blob/458049a17bc6acbea6b90ce891e741c9109b8eb0/Dashboard%201.png))
+![Regional & Sales_Channel Analysis]([images/regional_sales.png](https://github.com/Balamurugan-file/Retail_Sales_Analysis/blob/458049a17bc6acbea6b90ce891e741c9109b8eb0/Dashboard%202.png))
+
+---
+
+## ⭐ Conclusion
+
+This project demonstrates **end-to-end data analytics skills**:
+- Data cleaning & preparation
+- Advanced EDA with Python
+- Interactive Power BI dashboards
+- Actionable business insights
+
+**Skills Gained:**
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Power BI (DAX, Visualizations)
+Data Cleaning & Business Intelligence
