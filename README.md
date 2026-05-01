@@ -5,14 +5,14 @@ A comprehensive data analysis project to evaluate sales performance across categ
 ---
 
 ## 📖 Table of Contents
-- [Project Overview](#project-overview)
-- [Data Source](#data-source)
-- [Tools & Technologies](#tools--technologies)
-- [Data Cleaning & Preparation](#data-cleaning--preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Key Insights](#key-insights)
-- [Recommendations](#recommendations)
-- [How to Use](#how-to-use)
+- Project Overview  
+- Data Source  
+- Tools & Technologies  
+- Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- Key Insights  
+- Recommendations  
+- How to Use 
 
 ---
 
