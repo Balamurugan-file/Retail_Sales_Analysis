@@ -1,4 +1,4 @@
-# 📊 Retail Sales Analysis of an Electronics Store in Myanmar (2020–2023)
+# Retail Sales Analysis of an Electronics Store in Myanmar (2020–2023)
 
 A comprehensive data analysis project to evaluate sales performance across categories, regions, customers, and time using Python and Power BI.
 
