@@ -139,14 +139,6 @@ Retail Sales Analysis of an Electronics Store in Myanmar (2020–2023).ipynb
 # 4. Open Power BI Dashboard
 Retail_Sales_Dashboard.pbix
 ```
-
----
-
-## 📈 Dashboards
-
-![Category Performance Analysis]([images/sales_by_category.png](https://github.com/Balamurugan-file/Retail_Sales_Analysis/blob/458049a17bc6acbea6b90ce891e741c9109b8eb0/Dashboard%201.png))
-![Regional & Sales_Channel Analysis]([images/regional_sales.png](https://github.com/Balamurugan-file/Retail_Sales_Analysis/blob/458049a17bc6acbea6b90ce891e741c9109b8eb0/Dashboard%202.png))
-
 ---
 
 ## ⭐ Conclusion
