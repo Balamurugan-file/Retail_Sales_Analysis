@@ -33,7 +33,7 @@ This project analyzes retail sales data from an electronics store in Myanmar bet
 
 - **Source:** Kaggle
 - **Time Period:** 2020 – 2023
-- **Dataset Description:
+- **Dataset Description:**
 This dataset contains retail sales records for Electronics Retails Analysis, a consumer electronics retailer in Myanmar. It covers transactions from 2020 to 2023 across various regions.
 
 
@@ -122,7 +122,7 @@ This dataset contains retail sales records for Electronics Retails Analysis, a c
 ### Prerequisites
 - Python 3.8+
 - Power BI Desktop
-- MySQL Server
+
 
 ### Quick Start
 ```bash
