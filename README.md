@@ -140,7 +140,14 @@ Retail Sales Analysis of an Electronics Store in Myanmar (2020–2023).ipynb
 Retail_Sales_Dashboard.pbix
 ```
 ---
+## Dashboard
 
+### Dashboard 1: Category Performance Analysis
+![Dashboard 1](https://github.com/Balamurugan-file/Retail_Sales_Analysis/blob/main/Dashboard%201.png?raw=true)
+
+### Dashboard 2: Regional and Sales_Channel Analysis
+![Dashboard 2](https://github.com/Balamurugan-file/Retail_Sales_Analysis/blob/main/Dashboard%202.png?raw=true)
+---
 ## ⭐ Conclusion
 
 This project demonstrates **end-to-end data analytics skills**:
