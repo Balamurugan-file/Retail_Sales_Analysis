@@ -54,7 +54,6 @@ This project analyzes retail sales data from an electronics store in Myanmar bet
 | **Language** | Python (Pandas, NumPy) |
 | **Visualization** | Matplotlib, Seaborn |
 | **Dashboard** | Power BI |
-| **Database** | MySQL |
 | **Documentation** | Google colab, MS Word |
 
 ---
@@ -107,12 +106,12 @@ This project analyzes retail sales data from an electronics store in Myanmar bet
 |----------|--------|-----------------|
 | High | Focus Electronics category | Revenue growth |
 | High | Accessories promotions | Margin improvement |
+| High | VIP loyalty programs | Customer retention |
 | Medium | Expand Yangon strategies | Regional balance |
 | Medium | Improve low-performers (Magway, Tanintharyi) | Market expansion |
-| High | VIP loyalty programs | Customer retention |
 | Medium | Time-based promotions | Sales uplift |
-| Low | Promote Mobile Pay | Transaction efficiency |
 | Medium | Strengthen online channels | Channel diversification |
+| Low | Promote Mobile Pay | Transaction efficiency |
 
 ---
 
