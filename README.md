@@ -31,9 +31,11 @@ This project analyzes retail sales data from an electronics store in Myanmar bet
 
 ## 🗂️ Data Source
 
-- **Source:** Simulated retail sales dataset
+- **Source:** Kaggle
 - **Time Period:** 2020 – 2023
-- **Records:** ~1400+ rows
+- **Dataset Description:
+This dataset contains retail sales records for Electronics Retails Analysis, a consumer electronics retailer in Myanmar. It covers transactions from 2020 to 2023 across various regions.
+
 
 ### Key Variables:
 | Variable | Description |
