@@ -1,4 +1,6 @@
-# Retail Sales Analysis of an Electronics Store in Myanmar (2020–2023)
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
+ 
+## **Retail Sales Analysis of an Electronics Store in Myanmar (2020–2023)**
 
 A comprehensive data analysis project to evaluate sales performance across categories, regions, customers, and time using Python and Power BI.
 
@@ -39,7 +41,7 @@ This dataset contains retail sales records for Electronics Retails Analysis, a c
 
 ### Key Variables:
 | Variable | Description |
-|----------|-------------|
+| :--- | :--- |
 | Date | Transaction date |
 | Product, Category | Product details |
 | Price, Quantity, Discount | Financial metrics |
@@ -52,7 +54,7 @@ This dataset contains retail sales records for Electronics Retails Analysis, a c
 ## 🛠️ Tools & Technologies
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Language** | Python (Pandas, NumPy) |
 | **Visualization** | Matplotlib, Seaborn |
 | **Dashboard** | Power BI |
@@ -105,7 +107,7 @@ This dataset contains retail sales records for Electronics Retails Analysis, a c
 ## 🚀 Recommendations
 
 | Priority | Action | Expected Impact |
-|----------|--------|-----------------|
+| :--- | :--- | :--- |
 | High | Focus Electronics category | Revenue growth |
 | High | Accessories promotions | Margin improvement |
 | High | VIP loyalty programs | Customer retention |
@@ -160,3 +162,4 @@ This project demonstrates **end-to-end data analytics skills**:
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Power BI (DAX, Visualizations)
 Data Cleaning & Business Intelligence
+</div>
